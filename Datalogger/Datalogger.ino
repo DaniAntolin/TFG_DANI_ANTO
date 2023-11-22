@@ -34,6 +34,7 @@ int velocidad;
 int canal;
 int tiempo_escucha=90;
 int tiempo_dormido=60;
+long idErrors = 0;
 String dataMessage;
 String nombreFichero;
 String hora;
@@ -44,7 +45,7 @@ String mes;
 String dia;
 String fecha;
 String Nombre_Fichero;
-
+bool correctID;
 bool opened = false;
 
 DavisRFM69 radio;
@@ -532,40 +533,39 @@ void printStrm() {
   }
   Serial.print(F("\n\r"));
 }
-void processPacket() {
+void processPacket() { // procesa el paquete
   // Every packet has wind speed, direction, and battery status in it
-  loopData.windSpeed = radio.DATA[1];
+  loopData.windSpeed = radio.DATA[1]; // ,, byte 2
   velocidad = loopData.windSpeed;
   #if 0
-    Serial.print("Wind Speed: ");
-    Serial.print(loopData.windSpeed);
-    Serial.print("  Rx Byte 1: ");
-    Serial.println(radio.DATA[1]);
+      Serial.print("Velocidad de viento: ");
+      Serial.print(loopData.windSpeed);
+      Serial.print("  Rx Byte 1: ");
+      Serial.println(radio.DATA[1]);
   #endif
 
   // There is a dead zone on the wind vane. No values are reported between 8
   // and 352 degrees inclusive. These values correspond to received byte
   // values of 1 and 255 respectively
   // See http://www.wxforum.net/index.php?topic=21967.50
-  loopData.windDirection = 9 + radio.DATA[2] * 342.0f / 255.0f;
+  loopData.windDirection = radio.DATA[2] * 360.0f / 255.0f; // 9 + radio.DATA[2] * 342.0f / 255.0f
   direccion = loopData.windDirection;
   #if 0
-    Serial.print(F("Wind Direction: "));
-    Serial.print(loopData.windDirection);
-    Serial.print(F("  Rx Byte 2: "));
-    Serial.println(radio.DATA[2]);
+      Serial.print(F("Wind Direction: "));
+      Serial.print(loopData.windDirection);
+      Serial.print(F("  Rx Byte 2: "));
+      Serial.println(radio.DATA[2]);
   #endif
 
-  loopData.transmitterBatteryStatus = (radio.DATA[0] & 0x8) >> 3;
+  loopData.transmitterBatteryStatus = (radio.DATA[0] & 0x8) >> 3; // estado de la bateria ,, byte 1
   #if 0
-    Serial.print("Battery status: ");
-    Serial.println(loopData.transmitterBatteryStatus);
+      Serial.print("Battery status: ");
+      Serial.println(loopData.transmitterBatteryStatus);
   #endif
-  loopData.channel = (radio.DATA[0] & 0x7);
-  canal = loopData.channel;
+  canal = (radio.DATA[0] & 0x7); // ,, byte 1
   #if 0
-  Serial.print("Actual channel: ");
-  Serial.println(loopData.channel);
+    Serial.print("Actual channel: ");
+    Serial.println(loopData.channel);
   #endif
 
   // Now look at each individual packet. The high order nibble is the packet type.
@@ -573,37 +573,34 @@ void processPacket() {
   // The low order three bits of the low nibble are the station ID.
 
   switch (radio.DATA[0] >> 4) {
-  case VP2P_TEMP:
-    loopData.outsideTemperature = (int16_t)(word(radio.DATA[3], radio.DATA[4])) >> 4;
-    //loopData.outsideTemperature = ((loopData.outsideTemperature-320)*5)/9;
-    temperatura = loopData.outsideTemperature;
-    temp_float = float(((temperatura-320)*5)/90);
-  #if 0
-      Serial.print(F("Outside Temp: "));
-      Serial.print(loopData.outsideTemperature);
-      Serial.print(F("  Rx Byte 3: "));
-      Serial.print(radio.DATA[3]);
-      Serial.print(F("  Rx Byte 4: "));
-      Serial.println(radio.DATA[4]);
-  #endif
-    break;
-  case VP2P_HUMIDITY:
-    loopData.outsideHumidity = (float)(word((radio.DATA[4] >> 4), radio.DATA[3])) / 10.0;
-    humedad = loopData.outsideHumidity;
-  #if 0
-      Serial.print("Outside Humdity: ");
-      Serial.print(loopData.outsideHumidity);
-      Serial.print("  Rx Byte 3: ");
-      Serial.print(radio.DATA[3]);
-      Serial.print("  Rx Byte 4: ");
-      Serial.println(radio.DATA[4]);
+    case VP2P_TEMP:
+      loopData.outsideTemperature = (int16_t)(word(radio.DATA[3], radio.DATA[4]));
+    temp_float = (((loopData.outsideTemperature/160)-32)*5)/9;
+  #if 1
+        Serial.print(F("Outside Temp: "));
+        Serial.print(loopData.outsideTemperature);
+        Serial.print(F("  Rx Byte 3: "));
+        Serial.print(radio.DATA[3]);
+        Serial.print(F("  Rx Byte 4: "));
+        Serial.println(radio.DATA[4]);
   #endif
       break;
-    }
-  #if 0
-    printFreeRam();
+    case VP2P_HUMIDITY:
+      loopData.outsideHumidity = (float)(word((radio.DATA[4] >> 4), radio.DATA[3])) / 10.0;
+      humedad = loopData.outsideHumidity; // esto es la variable humedad
+  #if 1
+        Serial.print("Outside Humdity: ");
+        Serial.print(loopData.outsideHumidity);
+        Serial.print("  Rx Byte 3: ");
+        Serial.print(radio.DATA[3]);
+        Serial.print("  Rx Byte 4: ");
+        Serial.println(radio.DATA[4]);
   #endif
-
+      break;
+  }
+#if 0
+    printFreeRam();
+#endif
 }
 void print_information(int estacion){
   estacion++;
@@ -630,45 +627,57 @@ void print_information(int estacion){
   Serial.print(F("Velocidad del viento: "));
   Serial.println(velocidad);
 }
-void escuchar(int estacion){
+void escuchar(int stationID) {
+  // The check for a zero CRC value indicates a bigger problem that will need
+  // fixing, but it needs to stay until the fix is in.
   if (radio.receiveDone()) {
-    //if (strmon) printStrm();
     packetStats.packetsReceived++;
     unsigned int crc = radio.crc16_ccitt(radio.DATA, 6);
     if ((crc == (word(radio.DATA[6], radio.DATA[7]))) && (crc != 0)) {
-        //if (strmon) printStrm();
-        if((radio.DATA[0] & 0x7)==estacion){
-          //if (strmon) printStrm();
-          processPacket();
-          goodCrc = true;
-          goodRssi = radio.RSSI;
-          packetStats.receivedStreak++;
-          hopCount = 1;
-        }else{
-          goodCrc = false;
-          packetStats.crcErrors++;
-          packetStats.receivedStreak = 0;
-          radio.hop();
-        }
-      } else {
-        goodCrc = false;
-        packetStats.crcErrors++;
-        packetStats.receivedStreak = 0;
-        radio.hop(); 
-      }
-    if (goodCrc && (radio.RSSI < (goodRssi + 15))) {
-      lastRxTime = millis();
-      
-      radio.hop();
+      goodCrc = true;
+      packetStats.receivedStreak++;
+      correctID = (stationID == int (radio.DATA[0] & 0x7));
+      if (correctID){
+        hopCount = 1; // From correct station
+        processPacket(); // This is a good packet
+      }else
+        idErrors++; // From wrong station
     } else {
-      radio.waitHere();
+      goodCrc = false; // Incorrect packet
+      packetStats.crcErrors++;
+      packetStats.receivedStreak = 0;
+    }
+    // Radio hop only for correct packects (i.e. good CRC and correct station)
+    if (goodCrc && correctID) {
+      // Hop radio & update channel and lastRxTime
+      lastRxTime = millis();  
+      radio.hop();
+#ifdef POWER_SAVING
+      esp_sleep_enable_timer_wakeup(2 * 1000000); // light sleep (2s) to save energy
+      esp_light_sleep_start();
+#endif
+    } else {
+      // Do not hop the radio for incorrect packets but activate reception. 
+      // Problem: receiveBegin() is a private function of the radio.classs 
+      // Workaround: use setChannel to indirectly invoke it (could be improved but it works)
+      radio.setChannel(radio.CHANNEL); 
     }
   }
+
   // If a packet was not received at the expected time, hop the radio anyway
-  // in an attempt to keep up.  Give up after 25 failed attempts.  Keep track
-  // of packet stats as we go.  I consider a consecutive string of missed
-  // packets to be a single resync.  Thx to Kobuki for this algorithm.
-  
+  // in an attempt to keep up.  Give up after 4 failed attempts.  Keep track
+  // of packet stats as we go.  We consider a consecutive string of missed
+  // packets to be a single resync. 
+  if ((hopCount > 0) && ((millis() - lastRxTime) > (hopCount * (PACKET_INTERVAL + (1000*stationID/16)) + 50))) {
+    packetStats.packetsMissed++;
+    if (hopCount == 1) packetStats.numResyncs++;
+    if (++hopCount > 4) hopCount = 0;
+    radio.hop();
+#ifdef POWER_SAVING
+    esp_sleep_enable_timer_wakeup(2 * 1000000); // light sleep (2s) to save energy
+    esp_light_sleep_start();
+#endif
+  }
 }
 void logSDCard(int i) {
   getTimeStamp();
