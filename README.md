@@ -117,9 +117,7 @@ Mediante una Raspberry pi se creará un punto de acceso. Este punto de acceso se
 En el puerto 3000 se graficaran con grafana los datos obtenidos de las distintas estaciones.  
 </details>
 <details>
-<summary>  
-**V2 - CONEXIÓN A PAGINA WEB**  
-</summary>    
+<summary>**V2 - CONEXIÓN A PAGINA WEB**</summary>    
 Una vez obtenido los datos se crea una red wifi donde se crea una direccion ip donde el usuario podrá:  
 <img src="https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/FOTOS/webV1.png" align="left" width="200" />   
 *-cambiar la hora manualmente si se quiere y poder verla*  
