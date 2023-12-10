@@ -71,50 +71,13 @@ Esto funciona en nuestro caso de tal forma que una vez te sincronzas con el emis
 <summary>COMUNICACIÓN I2C</summary>   
 </details>  
 
-**DIAGRAMA DE FLUJO**
-```mermaid  
-graph TD;  
-    1["initialize_radio & set_chanel(0)"]-->2("loop_start");
-    2("loop_start")-->3{"packet recived?"};
-    3{"packet recived?"}-- Yes -->4["packetsRecived++"];
-    3{"packet recived?"}-- No -->13("end_recive_block");
-    4["packetsRecived++"]-->5{"correct CRC?"};
-    5{"correct CRC?"}-- Yes -->6{"correctID?"};
-    5{"correct CRC?"}-- No -->7["crcErrors++"];
-    6{"correctID?"}-- Yes -->9["hop_count=1"];
-    6{"correctID?"}-- No -->8["IDerrors++"];
-    7["crcErrors++"]-->10{"correctCRC & correctID?"};
-    8["IDerrors++"]-->10{"correctCRC & correctID?"};
-    9["hop_count=1"]-->10{"correctCRC & correctID?"};
-    10{"correctCRC & correctID?"}-- Yes -->11["lastRxTime=millis() ./ radio.hop()"];
-    10{"correctCRC & correctID?"}-- No -->12["wait same chanel"];
-    11["lastRxTime=millis() ./ radio.hop()"]-->13("end_recive_block");
-    12["wait same chanel"]-->13("end_recive_block");
-    13("end_recive_block")-->14["recived paket on time?"];
-    14{"recived paket on time?"}-- No -->15["packetsMissed++"];
-    14{"recived paket on time?"}-- Yes -->20("end_loop");
-    15["packetsMissed++"]-->16{"hop_count?"};
-    16{"hop_count?"}-- 2-4 -->19["next_channel"];
-    16{"hop_count?"}-- >4 -->17["hop_count=0"];
-    16{"hop_count?"}-- 1 -->18["numResyncs++"];
-    17["hop_count=0"]-->19["next_channel"];
-    18["numResyncs++"]-->19["next_channel"];
-    19["next_channel"]-->20("end_loop");
-    20("end_loop")-->2("loop_start");
-```
-  
 Se hará una escucha de cada canal de Xminutos.  
 Una vez escuchado un canal se duerme para que no haya problemas con la comunicacion i2c de la tarjeta SD, ya que comparten ...  
 ### Guardar.
 [**CÓDIGO y DIAGRAMA DE FLUJO**](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/GUARDAR)  
 En esta fase, en la tarjeta microSD se creará un archivo con la fecha actual si no está creado. Y dentro los datos obtenidos en la escucha del canal se almacenaran en formato .csv  
 En esta fase, al igual que la fase anterior, se va a utilizar un protocolo de [COMUNICACIÓN I2C](#COMUNICACIONI2C)  
-**DIAGRAMA DE FLUJO**  
-```mermaid
-graph TD;
-    1["initialize_radio & set_chanel(0)"]-->2("loop_start");
-    2("loop_start")-->3{"packet recived?"};
-```
+
 ### Enviar.
 [**CÓDIGO y DIAGRAMA DE FLUJO**](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/ENVIAR)  
 Se va a crear un archivo .txt con los datos obtenidos de la radio y luego hacer una copia de ese archivo almacenando los datos para que una vez enviado los datos nuevos obtenidos se eliminen..... a redactar mejor   
