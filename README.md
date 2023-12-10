@@ -70,6 +70,11 @@ Esto funciona en nuestro caso de tal forma que una vez te sincronzas con el emis
 <a name="COMUNICACIONSPI"></a>
 <details>  
 <summary><strong>COMUNICACIÓN SPI</strong></summary>   
+<p>Selección del esclavo: El maestro configura la línea SS/CS en estado bajo para seleccionar un esclavo específico<sup>[1](https://www.infootec.net/esp32-y-sd-card-protocolo-spi/)</sup>.</p>
+<p>Generación de la señal de reloj: El maestro genera una señal de reloj en la línea SCLK<sup>[1](https://www.infootec.net/esp32-y-sd-card-protocolo-spi/)</sup>.</p>
+<p>Transmisión de datos: Durante cada ciclo de reloj, el maestro envía un bit de datos por la línea MOSI y lee un bit de datos de la línea MISO<sup>[1](https://www.infootec.net/esp32-y-sd-card-protocolo-spi/)</sup>. Esto permite una comunicación Full Duplex, es decir, el maestro puede enviar y recibir datos simultáneamente<sup>[2](https://www.luisllamas.es/arduino-spi/)</sup>.</p>
+<p>Registros de desplazamiento: Para que este proceso se haga realidad es necesario la existencia de dos registros de desplazamiento, uno para el maestro y uno para el esclavo respectivamente. Los registros de desplazamiento se encargan de almacenar los bits de manera paralela para realizar una conversión paralela a serial para la transmisión de información<sup>[3](https://es.wikipedia.org/wiki/Serial_Peripheral_Interface)</sup>.</p>
+
 </details>  
 
 Se hará una escucha de cada canal de Xminutos.  
