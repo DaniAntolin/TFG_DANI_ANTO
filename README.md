@@ -108,6 +108,7 @@ a la hora de enviar, va a diseñar dos versiones:
 Mediante una Raspberry pi se creará un punto de acceso. Este punto de acceso servirá para comectarse desde el datalogger. Cada vez que termine de guardar, se intentará conectar al punto de acceso. Una vez conectada se actualizará la hora, se hará una conexión http con solicitud get para obtener la información de la pagina influxdb en el puerto 5000. los datos obtenidos, que son: ..... se guardaran en el archivo variables.txt  
 En el puerto 3000 se graficaran con grafana los datos obtenidos de las distintas estaciones.  
 **V2 - CONEXIÓN A PAGINA WEB**  
+![Image text](https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/FOTOS/webV1.png)  
 Una vez obtenido los datos se crea una red wifi donde se crea una direccion ip donde el usuario podrá:  
 *cambiar la hora manualmente si quiere*  
 *modificar los tres podibles canales el ID que tiene.*  
