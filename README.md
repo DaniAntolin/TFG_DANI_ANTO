@@ -120,7 +120,7 @@ Una vez obtenido los datos se crea una red wifi donde se crea una direccion ip d
 *-Cambiar el tiempo wifi, que es el tiempo que puede estar el usuario usando el wifi*  
 <br clear="left"/>
 Para acceder a los datos de la pagina que el usuario a podido modificar se hara una solicitud HTTP GET para obtener esos datos.   
-**EN ESTA VERSION SE VA A IMPLEMENTAR UN BOTON**  
+**EN ESTA VERSION SE VA A IMPLEMENTAR UN BOTON:**  
 <img src="https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/FOTOS/NodoIoT_BOTON_2.jpg" width="200" />   
 El uso del botón es para optimizar el uso de la bateria ya que una conexión prolongada del wifi hará que se gaste la batería.   
 Este botón se usará para que el usuario que quiera obtener los datos o configurar el datalogger a traves de la página web, conecte el wifi del ESP32 pulsando el botón integrado.  
