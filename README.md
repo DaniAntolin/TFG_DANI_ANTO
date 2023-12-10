@@ -111,8 +111,8 @@ graph TD;
 ### Enviar.
 Se va a crear un archivo .txt con los datos obtenidos de la radio y luego hacer una copia de ese archivo almacenando los datos para que una vez enviado los datos nuevos obtenidos se eliminen..... a redactar mejor   
 a la hora de enviar, va a diseñar dos versiones: 
-<details>
-<summary> **V1 - INFLUXDB Y GRAFANA + RASPBERRY PI** </summary>  
+<details>  
+<summary>**V1 - INFLUXDB Y GRAFANA + RASPBERRY PI**</summary>  
 Mediante una Raspberry pi se creará un punto de acceso. Este punto de acceso servirá para comectarse desde el datalogger. Cada vez que termine de guardar, se intentará conectar al punto de acceso. Una vez conectada se actualizará la hora, se hará una conexión http con solicitud get para obtener la información de la pagina influxdb en el puerto 5000. los datos obtenidos, que son: ..... se guardaran en el archivo variables.txt  
 En el puerto 3000 se graficaran con grafana los datos obtenidos de las distintas estaciones.  
 </details>
