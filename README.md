@@ -110,9 +110,11 @@ En el puerto 3000 se graficaran con grafana los datos obtenidos de las distintas
 **V2 - CONEXIÓN A PAGINA WEB**  
 Una vez obtenido los datos se crea una red wifi donde se crea una direccion ip donde el usuario podrá:  
 <img src="https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/FOTOS/webV1.png" align="left" width="200" />   
-*cambiar la hora manualmente si quiere*  
-*modificar los tres podibles canales el ID que tiene.*  
-*ver los datos almacenados de cada día y poder descargarselos*  
+*-cambiar la hora manualmente si se quiere y poder verla*  
+*-modificar los tres podibles canales el ID que tiene, introducir -1 en caso de que algún canal no tengas.*  
+*-ver los datos almacenados de cada día pulsando en "archivos" y poder descargarselos o eliminarlos*  
+*-Cambiar el tiempo de escucha de cada canal sin que este sea inferior a 90segundos*  
+*-Cambiar el tiempo wifi, que es el tiempo que puede estar el usuario usando el wifi*  
 <br clear="left"/>
 Para acceder a los datos de la pagina que el usuario a podido modificar se hara una solicitud HTTP GET para obtener esos datos.  
 
