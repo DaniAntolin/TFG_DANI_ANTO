@@ -67,9 +67,9 @@ FHSS (Espectro Ensanchado por Salto de Frecuencia), técnica de transmisión de 
 - Se basa en la idea de que un salto rápido y constante entre frecuencias dificulta la interceptación de la señal por parte de terceros. Además, permite una mayor resistencia a interferencias y una transmisión más eficiente de los datos.<br>   
 Esto funciona en nuestro caso de tal forma que una vez te sincronzas con el emisor (Estacion davis A) tu vas saltando de frecuencia al mismo tiempo recibiendo todos los paquetes. Pero en el momento que a una frecuencia llega un paquete indeseado, supongamos de nuestra estacion B, ....... a explicar<br>   
 </details>
-<a name="COMUNICACIONI2C"></a>
+<a name="COMUNICACIONSPI"></a>
 <details>  
-<summary><strong>COMUNICACIÓN I2C</strong></summary>   
+<summary><strong>COMUNICACIÓN SPI</strong></summary>   
 </details>  
 
 Se hará una escucha de cada canal de Xminutos.  
@@ -77,7 +77,7 @@ Una vez escuchado un canal se duerme para que no haya problemas con la comunicac
 ### Guardar.
 [**CÓDIGO y DIAGRAMA DE FLUJO**](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/GUARDAR)  
 En esta fase, en la tarjeta microSD se creará un archivo con la fecha actual si no está creado. Y dentro los datos obtenidos en la escucha del canal se almacenaran en formato .csv  
-En esta fase, al igual que la fase anterior, se va a utilizar un protocolo de [COMUNICACIÓN I2C](#COMUNICACIONI2C)  
+En esta fase, al igual que la fase anterior, se va a utilizar un protocolo de [COMUNICACIÓN SPI](#COMUNICACIONSPI)  
 
 ### Enviar.
 [**CÓDIGO y DIAGRAMA DE FLUJO**](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/ENVIAR)  
