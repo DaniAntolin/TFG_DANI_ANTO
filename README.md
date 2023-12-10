@@ -68,8 +68,8 @@ Esto funciona en nuestro caso de tal forma que una vez te sincronzas con el emis
 </details>  
 <details>  
 <summary>DIAGRAMA DE FLUJO</summary>  
-```mermaid
-graph TD;
+```mermaid  
+graph TD;  
     1["initialize_radio & set_chanel(0)"]-->2("loop_start");
     2("loop_start")-->3{"packet recived?"};
     3{"packet recived?"}-- Yes -->4["packetsRecived++"];
