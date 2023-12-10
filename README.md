@@ -16,8 +16,6 @@ Arduino IDE versión 2.2.1
 Placa Esp32 de espressif version 2.0.4  
 ## Conexiones pines:
 
-
-
 ### Placa Adafruit Feather ESP32 V2
 ![Image text](https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/FOTOS/Adafruit_ESP32_Feather_V2_Pinout.png)
 SCK -> Pin 5  
@@ -29,7 +27,6 @@ IRQ -> Pin 27
 PinBotón -> Pin 12  
 PinBotónTierra -> Pin 13  
 ### Adafruit Radio FeatherWing  
-![Image text](https://github.com/DaniAntolin/NodoIoT_RFM69/blob/V1.0/imagenes/imagenes/adafruit_products_Adafruit_ESP32_Feather_V2_Pinout.png)
 ## Desarrollo.  
 Para el desarrollo de este proyecto se divirá en tres partes que de forma independiente se podrá testear las diferentes fases del proyecto: [Recibir](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/RECIBIR), [Guardar](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/GUARDAR) y [Enviar](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/ENVIAR).  
 Estas tres fases serán librerías en un archivo .h/cpp que posteriormente se harán [pruebas](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/PRUEBAS).
