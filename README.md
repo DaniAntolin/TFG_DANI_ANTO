@@ -63,9 +63,11 @@ se basa en la idea de que un salto rápido y constante entre frecuencias dificul
 Esto funciona en nuestro caso de tal forma que una vez te sincronzas con el emisor (Estacion davis A) tu vas saltando de frecuencia al mismo tiempo recibiendo todos los paquetes. Pero en el momento que a una frecuencia llega un paquete indeseado, supongamos de nuestra estacion B, ....... a explicar  
 
 <a name="COMUNICACIONI2C"></a>
-**COMUNICACIÓN I2C**
-
-**DIAGRAMA DE FLUJO**
+<details>  
+<summary>COMUNICACIÓN I2C</summary>   
+</details>  
+<details>  
+<summary>DIAGRAMA DE FLUJO</summary>  
 ```mermaid
 graph TD;
     1["initialize_radio & set_chanel(0)"]-->2("loop_start");
@@ -96,7 +98,7 @@ graph TD;
     19["next_channel"]-->20("end_loop");
     20("end_loop")-->2("loop_start");
 ```
-
+</details>
 Se hará una escucha de cada canal de Xminutos.  
 Una vez escuchado un canal se duerme para que no haya problemas con la comunicacion i2c de la tarjeta SD, ya que comparten ...  
 ### Guardar.
