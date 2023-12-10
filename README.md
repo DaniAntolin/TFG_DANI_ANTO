@@ -48,7 +48,7 @@ El Sensor Transmitter Davis tiene en su interior 4 switches que dependiendo si e
 Dependiendo del canal escogido transmitirá mas o menos lento los paquetes segun la siguiente equación:  
 **(41 + ID)/16 [segundos]**  
 
-**PROTOCOLO DE COMUNICACION RADIO**  
+**- PROTOCOLO DE COMUNICACION RADIO**  
 <details>  
 <summary>TDMA</summary>  
 El objetivo final es escuchar cada estación, se utilizará un protocolo de comunicacion vía radio llamado *TDMA* (Acceso Multiple por División de Tiempo), que consiste en escuchar durante un periodo de tiempo cada canal como se muestra en la siguiente imagen, por lo que no divides el ancho de banda de la señal y puedes escuchar todos los canales en un tiempo determinado.  
