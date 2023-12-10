@@ -28,8 +28,8 @@ IRQ -> Pin 27
 ### Adafruit Radio FeatherWing  
 ![Image text](https://github.com/DaniAntolin/NodoIoT_RFM69/blob/V1.0/imagenes/imagenes/adafruit_products_Adafruit_ESP32_Feather_V2_Pinout.png)
 ## Desarrollo.  
-Para el desarroyo de este proyecto se divirá en tres partes que de forma independiente se podrá testear las diferentes fases del proyecto: Recibir, Guardar y Enviar.  
-Estas tres fases serán las implementadas en un archivo .ino que posteriormente serán junatadas en un archivo   *.ino* llamado DEFINITIVO.ino .  
+Para el desarroyo de este proyecto se divirá en tres partes que de forma independiente se podrá testear las diferentes fases del proyecto: [Recibir](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/RECIBIR), [Guardar](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/GUARDAR) y [Enviar](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/ENVIAR).  
+Estas tres fases serán las implementadas en un archivo .h/cpp que posteriormente serán junatadas en un archivo   *.ino* llamado DEFINITIVO.ino .  
 Tanto las pruebas realizadas como las conclusiones seran archivados en el archivo llamado testeo, done:  
 *- se medirá la potencia para saber el consumo en función del tiempo con y sin Placa Adafruit Adalogger FeatherWing, tambien radio + SD, radio + SD + WIFI.*  
 *- se medirá ... para los diferentes canales que tiene el transmisor de radio Davis.*  
