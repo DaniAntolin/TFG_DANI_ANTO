@@ -49,7 +49,7 @@ Dependiendo del canal escogido transmitirá mas o menos lento los paquetes segun
 **- PROTOCOLO DE COMUNICACION RADIO**  
 <details>  
 <summary><strong>TDMA</strong></summary>  
-El objetivo final es escuchar cada estación, se utilizará un protocolo de comunicacion vía radio llamado <em>TDMA</em>em> (Acceso Multiple por División de Tiempo), que consiste en escuchar durante un periodo de tiempo cada canal como se muestra en la siguiente imagen, por lo que no divides el ancho de banda de la señal y puedes escuchar todos los canales en un tiempo determinado.<br>   
+El objetivo final es escuchar cada estación, se utilizará un protocolo de comunicacion vía radio llamado <em>TDMA</em> (Acceso Multiple por División de Tiempo), que consiste en escuchar durante un periodo de tiempo cada canal como se muestra en la siguiente imagen, por lo que no divides el ancho de banda de la señal y puedes escuchar todos los canales en un tiempo determinado.<br>   
 <img src="https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/FOTOS/TDMA.jpg" width="200" /><br>   
 Ventaja:        No pierdes ancho de banda vease FDMA (Acceso Múltiple de División de Frecuencia).<br>    
 Desventaja:     En cada periodo de tiempo que escuchas una estación, no puedes escuchar las otras, perdiendo información de los otros canales a los que no escuchas.<br>   
