@@ -49,25 +49,27 @@ Dependiendo del canal escogido transmitirá mas o menos lento los paquetes segun
 **(41 + ID)/16 [segundos]**  
 
 **PROTOCOLO DE COMUNICACION RADIO**  
+<details>  
+<summary>TDMA</summary>  
 El objetivo final es escuchar cada estación, se utilizará un protocolo de comunicacion vía radio llamado *TDMA* (Acceso Multiple por División de Tiempo), que consiste en escuchar durante un periodo de tiempo cada canal como se muestra en la siguiente imagen, por lo que no divides el ancho de banda de la señal y puedes escuchar todos los canales en un tiempo determinado.  
 ![Image text](https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/FOTOS/TDMA.jpg)  
 Ventaja:        No pierdes ancho de banda vease FDMA (Acceso Múltiple de División de Frecuencia).   
 Desventaja:     En cada periodo de tiempo que escuchas una estación, no puedes escuchar las otras, perdiendo información de los otros canales a los que no escuchas.  
 *¿Por qué el uso de TDMA frente a FDMA?*  
 - Es simple, el protocolo de comunicación que utiliza la estación Davis no permite dividir el ancho de banda de la señal, haciendo imposible el uso de FDMA. Ademas que el ancho de banda que se utiliza en UE es limitado.  
-
-**RECEPCION CON FHSS**  
+</details>  
+<details>  
+<summary>RECEPCION CON FHSS</summary>  
 FHSS (Espectro Ensanchado por Salto de Frecuencia), técnica de transmisión de datos inalámbrica que utiliza un ancho de banda mucho mayor que el necesario para transmitir la información. Lo hace mediante el uso de una banda de frecuencia determinada, la cual es dividida en múltiples subfrecuencias. Estas subfrecuencias son saltadas en un orden preestablecido y sincronizado entre el emisor y el receptor.  
 *Cuáles son las ventajas?*  
 se basa en la idea de que un salto rápido y constante entre frecuencias dificulta la interceptación de la señal por parte de terceros. Además, permite una mayor resistencia a interferencias y una transmisión más eficiente de los datos.  
 Esto funciona en nuestro caso de tal forma que una vez te sincronzas con el emisor (Estacion davis A) tu vas saltando de frecuencia al mismo tiempo recibiendo todos los paquetes. Pero en el momento que a una frecuencia llega un paquete indeseado, supongamos de nuestra estacion B, ....... a explicar  
-
+</details>
 <a name="COMUNICACIONI2C"></a>
 <details>  
 <summary>COMUNICACIÓN I2C</summary>   
 </details>  
-<details>  
-<summary>DIAGRAMA DE FLUJO</summary>  
+**DIAGRAMA DE FLUJO**
 ```mermaid  
 graph TD;  
     1["initialize_radio & set_chanel(0)"]-->2("loop_start");
@@ -98,8 +100,7 @@ graph TD;
     19["next_channel"]-->20("end_loop");
     20("end_loop")-->2("loop_start");
 ```
-
-</details>  
+  
 Se hará una escucha de cada canal de Xminutos.  
 Una vez escuchado un canal se duerme para que no haya problemas con la comunicacion i2c de la tarjeta SD, ya que comparten ...  
 ### Guardar.
