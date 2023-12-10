@@ -69,6 +69,7 @@ Esto funciona en nuestro caso de tal forma que una vez te sincronzas con el emis
 <details>  
 <summary>COMUNICACIÓN I2C</summary>   
 </details>  
+
 **DIAGRAMA DE FLUJO**
 ```mermaid  
 graph TD;  
