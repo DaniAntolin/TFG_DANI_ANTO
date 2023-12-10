@@ -10,7 +10,7 @@ Tarjeta microSD de 2Gbytes
 PLaca Adafruit Radio FeatherWing  
 Placa Adafruit Feather ESP32 V2  
 Antena ...  
-Botón interruptor
+Botón interruptor  
 ### Software  
 Arduino IDE versión 2.2.1  
 Placa Esp32 de espressif version 2.0.4  
@@ -26,8 +26,8 @@ MOSI -> Pin 19
 CS RADIO -> Pin 32  
 CS CD -> Pin 33  
 IRQ -> Pin 27  
-PinBotón -> Pin 12
-PinBotónTierra -> Pin 13
+PinBotón -> Pin 12  
+PinBotónTierra -> Pin 13  
 ### Adafruit Radio FeatherWing  
 ![Image text](https://github.com/DaniAntolin/NodoIoT_RFM69/blob/V1.0/imagenes/imagenes/adafruit_products_Adafruit_ESP32_Feather_V2_Pinout.png)
 ## Desarrollo.  
