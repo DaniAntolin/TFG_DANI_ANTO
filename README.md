@@ -82,6 +82,7 @@ a la hora de enviar, va a diseñar dos versiones:
 <details>  
 <summary>V1 - CONEXIÓN A PAGINA WEB</summary>    
 Una vez obtenido los datos se crea una red wifi donde se crea una direccion ip donde el usuario podrá:  
+
 <img src="https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/FOTOS/webV1.png" align="left" width="200" />   
 -cambiar la hora manualmente si se quiere y poder verla  
 -modificar los tres podibles canales el ID que tiene, introducir -1 en caso de que algún canal no tengas.  
