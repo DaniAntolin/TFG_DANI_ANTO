@@ -112,21 +112,21 @@ graph TD;
 Se va a crear un archivo .txt con los datos obtenidos de la radio y luego hacer una copia de ese archivo almacenando los datos para que una vez enviado los datos nuevos obtenidos se eliminen..... a redactar mejor   
 a la hora de enviar, va a diseñar dos versiones:  
 **V1 - INFLUXDB Y GRAFANA + RASPBERRY PI**  
-    Mediante una Raspberry pi se creará un punto de acceso. Este punto de acceso servirá para comectarse desde el datalogger. Cada vez que termine de guardar, se intentará conectar al punto de acceso. Una vez conectada se actualizará la hora, se hará una conexión http con solicitud get para obtener la información de la pagina influxdb en el puerto 5000. los datos obtenidos, que son: ..... se guardaran en el archivo variables.txt  
-    En el puerto 3000 se graficaran con grafana los datos obtenidos de las distintas estaciones.  
+&nbsp;&nbsp;&nbsp;&nbsp;Mediante una Raspberry pi se creará un punto de acceso. Este punto de acceso servirá para comectarse desde el datalogger. Cada vez que termine de guardar, se intentará conectar al punto de acceso. Una vez conectada se actualizará la hora, se hará una conexión http con solicitud get para obtener la información de la pagina influxdb en el puerto 5000. los datos obtenidos, que son: ..... se guardaran en el archivo variables.txt  
+&nbsp;&nbsp;&nbsp;&nbsp;En el puerto 3000 se graficaran con grafana los datos obtenidos de las distintas estaciones.  
     **V2 - CONEXIÓN A PAGINA WEB**  
-    Una vez obtenido los datos se crea una red wifi donde se crea una direccion ip donde el usuario podrá:  
-    <img src="https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/FOTOS/webV1.png" align="left" width="200" />   
-    *-cambiar la hora manualmente si se quiere y poder verla*  
-    *-modificar los tres podibles canales el ID que tiene, introducir -1 en caso de que algún canal no tengas.*  
-    *-ver los datos almacenados de cada día pulsando en "archivos" y poder descargarselos o eliminarlos*  
-    *-Cambiar el tiempo de escucha de cada canal sin que este sea inferior a 90segundos, ya que superado este limite habrá una perdida significativa de los datos*  
-    *-Cambiar el tiempo wifi, que es el tiempo que puede estar el usuario usando el wifi*  
+&nbsp;&nbsp;&nbsp;&nbsp;Una vez obtenido los datos se crea una red wifi donde se crea una direccion ip donde el usuario podrá:  
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/FOTOS/webV1.png" align="left" width="200" />   
+&nbsp;&nbsp;&nbsp;&nbsp;*-cambiar la hora manualmente si se quiere y poder verla*  
+&nbsp;&nbsp;&nbsp;&nbsp;*-modificar los tres podibles canales el ID que tiene, introducir -1 en caso de que algún canal no tengas.*  
+&nbsp;&nbsp;&nbsp;&nbsp;*-ver los datos almacenados de cada día pulsando en "archivos" y poder descargarselos o eliminarlos*  
+&nbsp;&nbsp;&nbsp;&nbsp;*-Cambiar el tiempo de escucha de cada canal sin que este sea inferior a 90segundos, ya que superado este limite habrá una perdida significativa de los datos*  
+&nbsp;&nbsp;&nbsp;&nbsp;*-Cambiar el tiempo wifi, que es el tiempo que puede estar el usuario usando el wifi*  
     <br clear="left"/>
-    Para acceder a los datos de la pagina que el usuario a podido modificar se hara una solicitud HTTP GET para obtener esos datos.   
-**EN ESTA VERSION SE VA A IMPLEMENTAR UN BOTON:**  
-    <img src="https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/FOTOS/NodoIoT_BOTON_2.jpg" width="200" />   
-    El uso del botón es para optimizar el uso de la bateria ya que una conexión prolongada del wifi hará que se gaste la batería.   
-    Este botón se usará para que el usuario que quiera obtener los datos o configurar el datalogger a traves de la página web, conecte el wifi del ESP32 pulsando el botón integrado.  
-    Una vez haya terminado de manipular la pagina web creada procederá a pulsar otra vez el boton para que se apage el wifi.  
-    Para solventar un posible problema de que el usuario se le olvide volver a pulsar el boton par desconectar el wifi habra integrado un timer que cuando pase se desconectará automaticamente haciendo que no se pierda bateria inecesaria.  
+&nbsp;&nbsp;&nbsp;&nbsp;Para acceder a los datos de la pagina que el usuario a podido modificar se hara una solicitud HTTP GET para obtener esos datos.   
+&nbsp;&nbsp;&nbsp;&nbsp;**EN ESTA VERSION SE VA A IMPLEMENTAR UN BOTON:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/FOTOS/NodoIoT_BOTON_2.jpg" width="200" />   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;El uso del botón es para optimizar el uso de la bateria ya que una conexión prolongada del wifi hará que se gaste la batería.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Este botón se usará para que el usuario que quiera obtener los datos o configurar el datalogger a traves de la página web, conecte el wifi del ESP32 pulsando el botón integrado.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Una vez haya terminado de manipular la pagina web creada procederá a pulsar otra vez el boton para que se apage el wifi.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para solventar un posible problema de que el usuario se le olvide volver a pulsar el boton par desconectar el wifi habra integrado un timer que cuando pase se desconectará automaticamente haciendo que no se pierda bateria inecesaria.  
