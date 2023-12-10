@@ -64,7 +64,7 @@ FHSS (Espectro Ensanchado por Salto de Frecuencia), técnica de transmisión de 
 <ul>
 <li><em>¿Cuáles son las ventajas?</em><br></li>  
 </ul>
-se basa en la idea de que un salto rápido y constante entre frecuencias dificulta la interceptación de la señal por parte de terceros. Además, permite una mayor resistencia a interferencias y una transmisión más eficiente de los datos.<br>   
+- Se basa en la idea de que un salto rápido y constante entre frecuencias dificulta la interceptación de la señal por parte de terceros. Además, permite una mayor resistencia a interferencias y una transmisión más eficiente de los datos.<br>   
 Esto funciona en nuestro caso de tal forma que una vez te sincronzas con el emisor (Estacion davis A) tu vas saltando de frecuencia al mismo tiempo recibiendo todos los paquetes. Pero en el momento que a una frecuencia llega un paquete indeseado, supongamos de nuestra estacion B, ....... a explicar<br>   
 </details>
 <a name="COMUNICACIONI2C"></a>
