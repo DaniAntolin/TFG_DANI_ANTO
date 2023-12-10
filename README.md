@@ -76,20 +76,40 @@ Esto funciona en nuestro caso de tal forma que una vez te sincronzas con el emis
 <li><p>Transmisión de datos: Durante cada ciclo de reloj, el maestro envía un bit de datos por la línea MOSI y lee un bit de datos de la línea MISO. Esto permite una comunicación Full Duplex, es decir, el maestro puede enviar y recibir datos simultáneamente.</p></li>
 <li><p>Registros de desplazamiento: Para que este proceso se haga realidad es necesario la existencia de dos registros de desplazamiento, uno para el maestro y uno para el esclavo respectivamente. Los registros de desplazamiento se encargan de almacenar los bits de manera paralela para realizar una conversión paralela a serial para la transmisión de información.</p></li>
 </ol>
+</details>
 
+<details>  
+<summary><strong>Metodos de ahorro de energía Sleep</strong></summary>   
+Se usaran metodos de ahorro de energía deep_sleep y light_sleep:<br> 
+Los modos que podemos usar son:<br> 
+<ol>
+<li>modem-sleep: este modo de ahorro permite desactivar la conexión WiFi de tipo Station , establecida con un punto de acceso (router), cuando no sea necesario su uso y volver a activarla cuando se necesite.. El consumo típico en este modo es de 15mA.</li>
+<li>light-sleep: este modo de ahorro permite mantener la conexión WiFi de tipo Station, pero reduce el consumo de energía en los momentos en los que no hay envío de información.. El consumo típico pasa a ser de unos 0,5 mA.</li>
+<li>deep-sleep: es el modo que genera mayor ahorro, pero a costa de dejar la placa en suspenso. La única parte de la placa que funciona durante este modo es reloj en tiempo real (Real Time Clock o RTC) para poder reiniciarla cuando haya finalizado el tiempo de reposo. El consumo típico pasa a ser de unos 10 uA.</li>
+</ol>
+Además de dispones de los siguientes modos de reinicio.<br> 
+<ol>
+<li>WAKE_RF_DEFAULT: Calibración de señal de radio si es necesario</li>
+<li>WAKE_RFCAL: Calibración de señal de radio siempre</li>
+<li>WAKE_NO_RFCAL: Sin calibración de la señal de radio</li>
+<li>WAKE_RF_DISABLED: Deshabilita la señal de radio después del reencendido</li>
+</ol>
 </details>  
-
+<details>  
+<summary><strong>Reloj o RTC externo</strong></summary>   
+Aunque la placa cuenta con un reloj interno, es necesario utilizar un reloj externo o RTC alimentado por una pila para mantener la hora en caso de por ejemplo un recambio de la batería. 
+</details>  
 Se hará una escucha de cada canal de Xminutos.  
 Una vez escuchado un canal se duerme para que no haya problemas con la comunicacion i2c de la tarjeta SD, ya que comparten ...  
 ### Guardar.
 [**CÓDIGO y DIAGRAMA DE FLUJO**](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/GUARDAR)  
 En esta fase, en la tarjeta microSD se creará un archivo con la fecha actual si no está creado. Y dentro los datos obtenidos en la escucha del canal se almacenaran en formato .csv  
+Se va a crear un archivo .txt con los datos obtenidos de la radio y luego hacer una copia de ese archivo almacenando los datos para que una vez enviado los datos nuevos obtenidos se eliminen los antiguos, lo que se conoce como *buckup*.  
 En esta fase, al igual que la fase anterior, se va a utilizar un protocolo de [COMUNICACIÓN SPI](#COMUNICACIONSPI)  
 
 ### Enviar.
 [**CÓDIGO y DIAGRAMA DE FLUJO**](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/ENVIAR)  
-Se va a crear un archivo .txt con los datos obtenidos de la radio y luego hacer una copia de ese archivo almacenando los datos para que una vez enviado los datos nuevos obtenidos se eliminen..... a redactar mejor   
-a la hora de enviar, va a diseñar dos versiones:  
+A la hora de enviar, se va a diseñar dos versiones:  
 <details>  
 <summary><strong>V1 - CONEXIÓN A PAGINA WEB</strong></summary>      
 Una vez obtenido los datos se crea una red wifi donde se crea una direccion ip donde el usuario podrá:<br>  
@@ -115,8 +135,13 @@ Para solventar un posible problema de que el usuario se le olvide volver a pulsa
 <summary><strong>V2 - INFLUXDB Y GRAFANA + RASPBERRY PI</strong></summary>   
 Mediante una Raspberry pi se creará un punto de acceso. Este punto de acceso servirá para comectarse desde el datalogger.<br>   
 Cada vez que termine de guardar, se intentará conectar al punto de acceso.<br>  
-Una vez conectada se actualizará la hora, se hará una conexión http con solicitud get para obtener la información de la pagina influxdb en el puerto 5000.<br> 
-Los datos obtenidos, que son: ..... se guardaran en el archivo variables.txt<br>  
+Una vez conectada se actualizará la hora, se hará una conexión http con solicitud get para obtener la información de la pagina influxdb en el puerto 5000 y poder actualizar los datos, que han podido ser modificados por el usuario.<br> 
+Los datos obtenidos, que son:<br>   
+<em>-modificar los tres podibles canales el ID que tiene.</em><br>  
+<em>-Cambiar la zona horaria</em><br>  
+<em>-Cambiar el tiempo de escucha de cada canal sin que este sea inferior a 90segundos, ya que superado este limite habrá una perdida significativa de los datos</em><br>  
+<em>-Cambiar el tiempo dormido, que será el tiempo que se quede en ahorro de energía</em><br>  
+Estas variables se guardarán en el archivo variables.txt<br>  
 En el puerto 3000 se graficaran con grafana los datos obtenidos de las distintas estaciones.<br>  
 </details>  
 
