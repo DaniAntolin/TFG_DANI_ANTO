@@ -1,5 +1,5 @@
 #include "ENVIARV1.h" 
-ENVIARV1V1 ENVIAR;
+ENVIARV1V1 ENVIARV1;
 void setup() 
 {
   Serial.begin(115200);
