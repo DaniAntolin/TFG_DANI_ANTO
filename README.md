@@ -83,12 +83,12 @@ a la hora de enviar, va a diseñar dos versiones:
 <summary>V1 - CONEXIÓN A PAGINA WEB</summary>    
 Una vez obtenido los datos se crea una red wifi donde se crea una direccion ip donde el usuario podrá:  
 <img src="https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/FOTOS/webV1.png" align="left" width="200" />   
-*-cambiar la hora manualmente si se quiere y poder verla*  
-*-modificar los tres podibles canales el ID que tiene, introducir -1 en caso de que algún canal no tengas.*  
-*-ver los datos almacenados de cada día pulsando en "archivos" y poder descargarselos o eliminarlos*  
-*-Cambiar el tiempo de escucha de cada canal sin que este sea inferior a 90segundos, ya que superado este limite habrá una perdida significativa de los datos*  
+-cambiar la hora manualmente si se quiere y poder verla  
+-modificar los tres podibles canales el ID que tiene, introducir -1 en caso de que algún canal no tengas.  
+-ver los datos almacenados de cada día pulsando en "archivos" y poder descargarselos o eliminarlos  
+-Cambiar el tiempo de escucha de cada canal sin que este sea inferior a 90segundos, ya que superado este limite habrá una perdida significativa de los datos*  
 *-Cambiar el tiempo wifi, que es el tiempo que puede estar el usuario usando el wifi*  
-<br clear="left"/>
+<br clear="left"/>  
 Para acceder a los datos de la pagina que el usuario a podido modificar se hara una solicitud HTTP GET para obtener esos datos.   
 **EN ESTA VERSION SE VA A IMPLEMENTAR UN BOTON:**  
 <img src="https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/FOTOS/NodoIoT_BOTON_2.jpg" width="200" />   
