@@ -62,6 +62,8 @@ FHSS (Espectro Ensanchado por Salto de Frecuencia), técnica de transmisión de 
 se basa en la idea de que un salto rápido y constante entre frecuencias dificulta la interceptación de la señal por parte de terceros. Además, permite una mayor resistencia a interferencias y una transmisión más eficiente de los datos.  
 Esto funciona en nuestro caso de tal forma que una vez te sincronzas con el emisor (Estacion davis A) tu vas saltando de frecuencia al mismo tiempo recibiendo todos los paquetes. Pero en el momento que a una frecuencia llega un paquete indeseado, supongamos de nuestra estacion B, ....... a explicar  
 
+**COMUNICACIÓN I2C**
+
 **DIAGRAMA DE FLUJO**
 ```mermaid
 graph TD;
@@ -95,9 +97,10 @@ graph TD;
 ```
 
 Se hará una escucha de cada canal de Xminutos.  
-Una vez escuchado un canal se duerme para que no haya problemas con la comunicacion i2c de la tarjeta SD.  
+Una vez escuchado un canal se duerme para que no haya problemas con la comunicacion i2c de la tarjeta SD, ya que comparten ...  
 ### Guardar.
 En esta fase, en la tarjeta microSD se creará un archivo con la fecha actual si no está creado. Y dentro los datos obtenidos en la escucha del canal se almacenaran en formato .csv  
+En esta fase, al igual que la fase anterior, se va a utilizar un protocolo de [COMUNICACIÓN I2C](https://github.com/DaniAntolin/TFG_DANI_ANTO/edit/main/README.md#65)  
 **DIAGRAMA DE FLUJO**  
 ```mermaid
 graph TD;
