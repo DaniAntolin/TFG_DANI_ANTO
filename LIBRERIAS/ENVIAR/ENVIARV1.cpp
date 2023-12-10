@@ -332,6 +332,7 @@ void ENVIARV1:: comprobarEstadoBoton_WiFi(){
   if ((ServidorON)&&((tiempoACT-tiempoINT)>(60*tiempo_wifi*1000))) apagarWifi = true;
 
   if (apagarWifi){
+    RECIBIR.radio.setChannel(radio.CHANNEL); //Reactivar la radio (se invoca ReceiveBegin())
     WiFi.mode(WIFI_OFF);
     Serial.println(F("Wifi Apagada "));
     delay(1000);  
@@ -339,7 +340,6 @@ void ENVIARV1:: comprobarEstadoBoton_WiFi(){
     tiempoINT=0;  //Se apaga el servidor (si es interrupcion o si es timeout hay que ponerlo)
     apagarWifi=false;
     encenderWifi=false; //Está ya a false pero por si acaso
-    RECIBIR.radio.setChannel(radio.CHANNEL); //Reactivar la radio (se invoca ReceiveBegin())
    }
 }
 void ENVIARV1:: Init_Servidor (){
