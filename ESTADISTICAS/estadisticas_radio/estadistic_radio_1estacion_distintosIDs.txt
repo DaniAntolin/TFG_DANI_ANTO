@@ -1,0 +1,21 @@
+ID 0 4h
+packetsReceived: 6197 goodPacket is: 5826 Paquetes de humedad recividos: 584 % humedad recivida: 0.10 Paquetes de temperatura recividos: 1456 % temperatura recivida: 0.25 packetsMissed: 57 numResyncs: 45 receivedStreak: 39 crcErrors: 371 idErrors: 0 packets/min: 23.00
+packetsReceived: 6197 goodPacket is: 5826 Paquetes de humedad recividos: 584 % humedad recivida: 0.10 Paquetes de temperatura recividos: 1456 % temperatura recivida: 0.25 packetsMissed: 57 numResyncs: 45 receivedStreak: 39 crcErrors: 371 idErrors: 0 packets/min: 23.00
+
+ID 1 8h
+packetsReceived: 11841 goodPacket is: 10760 Paquetes de humedad recividos: 1078 % humedad recivida: 0.10 Paquetes de temperatura recividos: 2690 % temperatura recivida: 0.25 packetsMissed: 104 numResyncs: 93 receivedStreak: 8 crcErrors: 1081 idErrors: 0 packets/min: 22.00
+ID 2 5h
+packetsReceived: 9758 goodPacket is: 8753 Paquetes de humedad recividos: 874 % humedad recivida: 0.10 Paquetes de temperatura recividos: 2186 % temperatura recivida: 0.25 packetsMissed: 105 numResyncs: 82 receivedStreak: 10 crcErrors: 1005 idErrors: 0 packets/min: 22.00
+ID 3 3h
+packetsReceived: 4835 goodPacket is: 4243 Paquetes de humedad recividos: 424 % humedad recivida: 0.10 Paquetes de temperatura recividos: 1064 % temperatura recivida: 0.25 packetsMissed: 44 numResyncs: 39 receivedStreak: 7 crcErrors: 592 idErrors: 0 packets/min: 21.00
+packetsReceived: 4887 goodPacket is: 4290 Paquetes de humedad recividos: 430 % humedad recivida: 0.10 Paquetes de temperatura recividos: 1076 % temperatura recivida: 0.25 packetsMissed: 47 numResyncs: 40 receivedStreak: 10 crcErrors: 597 idErrors: 0 packets/min: 21.00
+
+ID 4 3h
+packetsReceived: 3850 goodPacket is: 3579 Paquetes de humedad recividos: 362 % humedad recivida: 0.10 Paquetes de temperatura recividos: 894 % temperatura recivida: 0.25 packetsMissed: 43 numResyncs: 34 receivedStreak: 4 crcErrors: 271 idErrors: 0 packets/min: 21.00
+
+ID 5 4h
+packetsReceived: 5416 goodPacket is: 4816 Paquetes de humedad recividos: 481 % humedad recivida: 0.10 Paquetes de temperatura recividos: 1211 % temperatura recivida: 0.25 packetsMissed: 58 numResyncs: 50 receivedStreak: 26 crcErrors: 600 idErrors: 0 packets/min: 20.00
+ID 6 3h
+packetsReceived: 4055 goodPacket is: 3619 Paquetes de humedad recividos: 362 % humedad recivida: 0.10 Paquetes de temperatura recividos: 905 % temperatura recivida: 0.25 packetsMissed: 38 numResyncs: 33 receivedStreak: 23 crcErrors: 436 idErrors: 0 packets/min: 20.00
+ID 7 4h
+packetsReceived: 5160 goodPacket is: 4666 Paquetes de humedad recividos: 468 % humedad recivida: 0.10 Paquetes de temperatura recividos: 1167 % temperatura recivida: 0.25 packetsMissed: 36 numResyncs: 32 receivedStreak: 9 crcErrors: 494 idErrors: 0 packets/min: 19.00
