@@ -112,12 +112,12 @@ graph TD;
 Se va a crear un archivo .txt con los datos obtenidos de la radio y luego hacer una copia de ese archivo almacenando los datos para que una vez enviado los datos nuevos obtenidos se eliminen..... a redactar mejor   
 a la hora de enviar, va a diseñar dos versiones: 
 <details>  
-<summary>**V1 - INFLUXDB Y GRAFANA + RASPBERRY PI**</summary>  
+<summary>V1 - INFLUXDB Y GRAFANA + RASPBERRY PI</summary>  
 Mediante una Raspberry pi se creará un punto de acceso. Este punto de acceso servirá para comectarse desde el datalogger. Cada vez que termine de guardar, se intentará conectar al punto de acceso. Una vez conectada se actualizará la hora, se hará una conexión http con solicitud get para obtener la información de la pagina influxdb en el puerto 5000. los datos obtenidos, que son: ..... se guardaran en el archivo variables.txt  
 En el puerto 3000 se graficaran con grafana los datos obtenidos de las distintas estaciones.  
-</details>
+</details>  
 <details>  
-<summary>**V2 - CONEXIÓN A PAGINA WEB**</summary>    
+<summary>V2 - CONEXIÓN A PAGINA WEB</summary>    
 Una vez obtenido los datos se crea una red wifi donde se crea una direccion ip donde el usuario podrá:  
 <img src="https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/FOTOS/webV1.png" align="left" width="200" />   
 *-cambiar la hora manualmente si se quiere y poder verla*  
@@ -133,4 +133,4 @@ El uso del botón es para optimizar el uso de la bateria ya que una conexión pr
 Este botón se usará para que el usuario que quiera obtener los datos o configurar el datalogger a traves de la página web, conecte el wifi del ESP32 pulsando el botón integrado.  
 Una vez haya terminado de manipular la pagina web creada procederá a pulsar otra vez el boton para que se apage el wifi.  
 Para solventar un posible problema de que el usuario se le olvide volver a pulsar el boton par desconectar el wifi habra integrado un timer que cuando pase se desconectará automaticamente haciendo que no se pierda bateria inecesaria.  
-</details>
+</details>  
