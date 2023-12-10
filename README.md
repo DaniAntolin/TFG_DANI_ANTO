@@ -95,10 +95,6 @@ Además de dispones de los siguientes modos de reinicio.<br>
 <li>WAKE_RF_DISABLED: Deshabilita la señal de radio después del reencendido</li>  
 </ol>  
 </details>  
-<details>  
-<summary><strong>Reloj o RTC externo</strong></summary>   
-Aunque la placa cuenta con un reloj interno, es necesario utilizar un reloj externo o RTC alimentado por una pila para mantener la hora en caso de por ejemplo un recambio de la batería. 
-</details>  
 
 Se hará una escucha de cada canal de Xminutos.  
 Una vez escuchado un canal se duerme para que no haya problemas con la comunicacion i2c de la tarjeta SD, ya que comparten ...  
@@ -107,6 +103,11 @@ Una vez escuchado un canal se duerme para que no haya problemas con la comunicac
 En esta fase, en la tarjeta microSD se creará un archivo con la fecha actual si no está creado. Y dentro los datos obtenidos en la escucha del canal se almacenaran en formato .csv  
 Se va a crear un archivo .txt con los datos obtenidos de la radio y luego hacer una copia de ese archivo almacenando los datos para que una vez enviado los datos nuevos obtenidos se eliminen los antiguos, lo que se conoce como *buckup*.  
 En esta fase, al igual que la fase anterior, se va a utilizar un protocolo de [COMUNICACIÓN SPI](#COMUNICACIONSPI)  
+
+<details>  
+<summary><strong>Reloj o RTC externo</strong></summary>   
+Aunque la placa cuenta con un reloj interno, es necesario utilizar un reloj externo o RTC alimentado por una pila para mantener la hora en caso de por ejemplo un recambio de la batería. 
+</details>  
 
 ### Enviar.
 [**CÓDIGO y DIAGRAMA DE FLUJO**](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/ENVIAR)  
