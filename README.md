@@ -100,7 +100,7 @@ Se hará una escucha de cada canal de Xminutos.
 Una vez escuchado un canal se duerme para que no haya problemas con la comunicacion i2c de la tarjeta SD, ya que comparten ...  
 ### Guardar.
 En esta fase, en la tarjeta microSD se creará un archivo con la fecha actual si no está creado. Y dentro los datos obtenidos en la escucha del canal se almacenaran en formato .csv  
-En esta fase, al igual que la fase anterior, se va a utilizar un protocolo de [COMUNICACIÓN I2C](https://github.com/DaniAntolin/TFG_DANI_ANTO/edit/main/README.md#65)  
+En esta fase, al igual que la fase anterior, se va a utilizar un protocolo de [COMUNICACIÓN I2C](https://github.com/DaniAntolin/TFG_DANI_ANTO/edit/main/README.md?plain=1#L65)  
 **DIAGRAMA DE FLUJO**  
 ```mermaid
 graph TD;
