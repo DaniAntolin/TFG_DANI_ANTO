@@ -321,7 +321,6 @@ void ENVIARV1:: comprobarEstadoBoton_WiFi(){
   tiempoACT=millis();  //tiempo actual
 
   if (encenderWifi){
-    RECIBIR.radio.sleep(); //Evitar interrupcion de radio durante la escritura de SD
     wifi_ON(); 
     conectarServidor();
     ServidorON=true;
@@ -339,7 +338,6 @@ void ENVIARV1:: comprobarEstadoBoton_WiFi(){
     tiempoINT=0;  //Se apaga el servidor (si es interrupcion o si es timeout hay que ponerlo)
     apagarWifi=false;
     encenderWifi=false; //Está ya a false pero por si acaso
-    RECIBIR.radio.setChannel(radio.CHANNEL); //Reactivar la radio (se invoca ReceiveBegin())
    }
 }
 void ENVIARV1:: Init_Servidor (){
