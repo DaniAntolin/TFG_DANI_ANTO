@@ -28,10 +28,10 @@ IRQ -> Pin 27
 ### Adafruit Radio FeatherWing  
 ![Image text](https://github.com/DaniAntolin/NodoIoT_RFM69/blob/V1.0/imagenes/imagenes/adafruit_products_Adafruit_ESP32_Feather_V2_Pinout.png)
 ## Desarrollo.  
-Para el desarroyo de este proyecto se divirá en tres partes que de forma independiente se podrá testear las diferentes fases del proyecto: [Recibir](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/RECIBIR), [Guardar](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/GUARDAR) y [Enviar](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/ENVIAR).  
+Para el desarrollo de este proyecto se divirá en tres partes que de forma independiente se podrá testear las diferentes fases del proyecto: [Recibir](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/RECIBIR), [Guardar](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/GUARDAR) y [Enviar](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/ENVIAR).  
 Estas tres fases serán librerías en un archivo .h/cpp que posteriormente se harán [pruebas](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/PRUEBAS).
 Finalmente, serán junatadas en un archivo   *.ino* llamado [DEFINITIVO.ino](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/DEFINITIVO) .  
-Tanto las pruebas realizadas como las conclusiones seran archivados en el archivo llamado [ESTADISTICAS](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/ESTADISTICAS), donDe:  
+Tanto las pruebas realizadas como las conclusiones seran archivados en el archivo llamado [ESTADISTICAS](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/ESTADISTICAS), donde:  
 *- se medirá la potencia para saber el consumo en función del tiempo con y sin Placa Adafruit Adalogger FeatherWing, tambien radio + SD, radio + SD + WIFI.*  
 *- se medirá ... para los diferentes canales que tiene el transmisor de radio Davis.*  
 *- se hará testeos del wifi para identificar posibles errores...*  
@@ -46,7 +46,8 @@ Dependiendo del canal escogido transmitirá mas o menos lento los paquetes segun
 **(41 + ID)/16 [segundos]**  
 
 **PROTOCOLO DE COMUNICACION RADIO**  
-El objetivo final es escuchar cada estación, se utilizará un protocolo de comunicacion vía radio llamado *TDMA* (Acceso Multiple por División de Tiempo), que consiste en escuchar durante un periodo de tiempo cada canal como se muestra en la siguiente imagen, por lo que no divides el ancho de banda de la señal y puedes escuchar todos los canales en un tiempo determinado.  
+El objetivo final es escuchar cada estación, se utilizará un protocolo de comunicacion vía radio llamado *TDMA* (Acceso Multiple por División de Tiempo), que consiste en escuchar durante un periodo de tiempo cada canal como se muestra en la siguiente imagen, por lo que no divides el ancho de banda de la señal y puedes escuchar todos los canales en un tiempo determinado.
+![Image text](https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/FOTOS/TDMA.jpg)
 Ventaja:        No pierdes ancho de banda vease FDMA (Acceso Múltiple de División de Frecuencia).   
 Desventaja:     En cada periodo de tiempo que escuchas una estación, no puedes escuchar las otras, perdiendo información de los otros canales a los que no escuchas.  
 *¿Por qué el uso de TDMA frente a FDMA?*  
