@@ -48,24 +48,24 @@ Dependiendo del canal escogido transmitirá mas o menos lento los paquetes segun
 
 **- PROTOCOLO DE COMUNICACION RADIO**  
 <details>  
-<summary>TDMA</summary>  
-El objetivo final es escuchar cada estación, se utilizará un protocolo de comunicacion vía radio llamado *TDMA* (Acceso Multiple por División de Tiempo), que consiste en escuchar durante un periodo de tiempo cada canal como se muestra en la siguiente imagen, por lo que no divides el ancho de banda de la señal y puedes escuchar todos los canales en un tiempo determinado.  
-![Image text](https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/FOTOS/TDMA.jpg)  
-Ventaja:        No pierdes ancho de banda vease FDMA (Acceso Múltiple de División de Frecuencia).   
-Desventaja:     En cada periodo de tiempo que escuchas una estación, no puedes escuchar las otras, perdiendo información de los otros canales a los que no escuchas.  
-*¿Por qué el uso de TDMA frente a FDMA?*  
-- Es simple, el protocolo de comunicación que utiliza la estación Davis no permite dividir el ancho de banda de la señal, haciendo imposible el uso de FDMA. Ademas que el ancho de banda que se utiliza en UE es limitado.  
+<summary><strong>TDMA</strong></summary>  
+El objetivo final es escuchar cada estación, se utilizará un protocolo de comunicacion vía radio llamado *TDMA* (Acceso Multiple por División de Tiempo), que consiste en escuchar durante un periodo de tiempo cada canal como se muestra en la siguiente imagen, por lo que no divides el ancho de banda de la señal y puedes escuchar todos los canales en un tiempo determinado.<br>   
+![Image text](https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/FOTOS/TDMA.jpg)<br>   
+Ventaja:        No pierdes ancho de banda vease FDMA (Acceso Múltiple de División de Frecuencia).<br>    
+Desventaja:     En cada periodo de tiempo que escuchas una estación, no puedes escuchar las otras, perdiendo información de los otros canales a los que no escuchas.<br>   
+<em>¿Por qué el uso de TDMA frente a FDMA?</em><br>   
+- Es simple, el protocolo de comunicación que utiliza la estación Davis no permite dividir el ancho de banda de la señal, haciendo imposible el uso de FDMA. Ademas que el ancho de banda que se utiliza en UE es limitado.<br>   
 </details>  
 <details>  
-<summary>RECEPCION CON FHSS</summary>  
-FHSS (Espectro Ensanchado por Salto de Frecuencia), técnica de transmisión de datos inalámbrica que utiliza un ancho de banda mucho mayor que el necesario para transmitir la información. Lo hace mediante el uso de una banda de frecuencia determinada, la cual es dividida en múltiples subfrecuencias. Estas subfrecuencias son saltadas en un orden preestablecido y sincronizado entre el emisor y el receptor.  
-*Cuáles son las ventajas?*  
-se basa en la idea de que un salto rápido y constante entre frecuencias dificulta la interceptación de la señal por parte de terceros. Además, permite una mayor resistencia a interferencias y una transmisión más eficiente de los datos.  
-Esto funciona en nuestro caso de tal forma que una vez te sincronzas con el emisor (Estacion davis A) tu vas saltando de frecuencia al mismo tiempo recibiendo todos los paquetes. Pero en el momento que a una frecuencia llega un paquete indeseado, supongamos de nuestra estacion B, ....... a explicar  
+<summary><strong>RECEPCION CON FHSS</strong></summary>  
+FHSS (Espectro Ensanchado por Salto de Frecuencia), técnica de transmisión de datos inalámbrica que utiliza un ancho de banda mucho mayor que el necesario para transmitir la información. Lo hace mediante el uso de una banda de frecuencia determinada, la cual es dividida en múltiples subfrecuencias. Estas subfrecuencias son saltadas en un orden preestablecido y sincronizado entre el emisor y el receptor.<br>   
+<em>Cuáles son las ventajas?</em><br>   
+se basa en la idea de que un salto rápido y constante entre frecuencias dificulta la interceptación de la señal por parte de terceros. Además, permite una mayor resistencia a interferencias y una transmisión más eficiente de los datos.<br>   
+Esto funciona en nuestro caso de tal forma que una vez te sincronzas con el emisor (Estacion davis A) tu vas saltando de frecuencia al mismo tiempo recibiendo todos los paquetes. Pero en el momento que a una frecuencia llega un paquete indeseado, supongamos de nuestra estacion B, ....... a explicar<br>   
 </details>
 <a name="COMUNICACIONI2C"></a>
 <details>  
-<summary>COMUNICACIÓN I2C</summary>   
+<summary><strong>COMUNICACIÓN I2C</strong></summary>   
 </details>  
 
 Se hará una escucha de cada canal de Xminutos.  
@@ -99,7 +99,10 @@ Para solventar un posible problema de que el usuario se le olvide volver a pulsa
 </details>  
 <details>  
 <summary><strong>V2 - INFLUXDB Y GRAFANA + RASPBERRY PI</strong></summary>   
-Mediante una Raspberry pi se creará un punto de acceso. Este punto de acceso servirá para comectarse desde el datalogger. Cada vez que termine de guardar, se intentará conectar al punto de acceso. Una vez conectada se actualizará la hora, se hará una conexión http con solicitud get para obtener la información de la pagina influxdb en el puerto 5000. los datos obtenidos, que son: ..... se guardaran en el archivo variables.txt<br>  
+Mediante una Raspberry pi se creará un punto de acceso. Este punto de acceso servirá para comectarse desde el datalogger.<br>   
+Cada vez que termine de guardar, se intentará conectar al punto de acceso.<br>  
+Una vez conectada se actualizará la hora, se hará una conexión http con solicitud get para obtener la información de la pagina influxdb en el puerto 5000.<br> 
+Los datos obtenidos, que son: ..... se guardaran en el archivo variables.txt<br>  
 En el puerto 3000 se graficaran con grafana los datos obtenidos de las distintas estaciones.<br>  
 </details>  
 
