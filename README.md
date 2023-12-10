@@ -52,8 +52,10 @@ Dependiendo del canal escogido transmitirá mas o menos lento los paquetes segun
 El objetivo final es escuchar cada estación, se utilizará un protocolo de comunicacion vía radio llamado <em>TDMA (Acceso Multiple por División de Tiempo)</em>, que consiste en escuchar durante un periodo de tiempo cada canal como se muestra en la siguiente imagen, por lo que no divides el ancho de banda de la señal y puedes escuchar todos los canales en un tiempo determinado.<br>   
 <img src="https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/FOTOS/TDMA.jpg" width="200" /><br>   
 Ventaja:        No pierdes ancho de banda vease <em>FDMA (Acceso Múltiple de División de Frecuencia)</em>.<br>    
-Desventaja:     En cada periodo de tiempo que escuchas una estación, no puedes escuchar las otras, perdiendo información de los otros canales a los que no escuchas.<br>   
-<em>¿Por qué el uso de TDMA frente a FDMA?</em><br>   
+Desventaja:     En cada periodo de tiempo que escuchas una estación, no puedes escuchar las otras, perdiendo información de los otros canales a los que no escuchas.<br>  
+<ul>  
+<li><em>¿Por qué el uso de TDMA frente a FDMA?</em></li><br>   
+</ul>  
 - Es simple, el protocolo de comunicación que utiliza la estación Davis no permite dividir el ancho de banda de la señal, haciendo imposible el uso de FDMA. Ademas que el ancho de banda que se utiliza en UE es limitado.<br>   
 </details>  
 <details>  
@@ -92,7 +94,10 @@ Una vez obtenido los datos se crea una red wifi donde se crea una direccion ip d
 <em>-Cambiar el tiempo wifi, que es el tiempo que puede estar el usuario usando el wifi</em><br>  
 <br clear="left"/>  
 Para acceder a los datos de la pagina que el usuario a podido modificar se hara una solicitud HTTP GET para obtener esos datos.<br>   
-<strong>EN ESTA VERSION SE VA A IMPLEMENTAR UN BOTON:</strong><br>  
+<ul>  
+<li><strong>BOTON INTERRUPTOR</strong></li><br>  
+</ul>  
+<em>EN ESTA VERSION SE VA A IMPLEMENTAR UN BOTON:</em><br>
 <img src="https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/FOTOS/NodoIoT_BOTON_2.jpg" width="200" /><br>   
 El uso del botón es para optimizar el uso de la bateria ya que una conexión prolongada del wifi hará que se gaste la batería.<br>   
 Este botón se usará para que el usuario que quiera obtener los datos o configurar el datalogger a traves de la página web, conecte el wifi del ESP32 pulsando el botón integrado.<br>  
