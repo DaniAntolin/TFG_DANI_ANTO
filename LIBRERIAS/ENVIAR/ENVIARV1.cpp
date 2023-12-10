@@ -321,6 +321,7 @@ void ENVIARV1:: comprobarEstadoBoton_WiFi(){
   tiempoACT=millis();  //tiempo actual
 
   if (encenderWifi){
+    RECIBIR.radio.sleep(); //Evitar interrupcion de radio durante la escritura de SD
     wifi_ON(); 
     conectarServidor();
     ServidorON=true;
@@ -331,6 +332,7 @@ void ENVIARV1:: comprobarEstadoBoton_WiFi(){
   if ((ServidorON)&&((tiempoACT-tiempoINT)>(60*tiempo_wifi*1000))) apagarWifi = true;
 
   if (apagarWifi){
+    RECIBIR.radio.setChannel(radio.CHANNEL); //Reactivar la radio (se invoca ReceiveBegin())
     WiFi.mode(WIFI_OFF);
     Serial.println(F("Wifi Apagada "));
     delay(1000);  
