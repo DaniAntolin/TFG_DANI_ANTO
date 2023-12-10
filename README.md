@@ -18,7 +18,7 @@ Placa Esp32 de espressif version 2.0.4
 
 
 ### Placa Adafruit Feather ESP32 V2
-![Image text](https://github.com/DaniAntolin/NodoIoT_RFM69/blob/V1.0/imagenes/imagenes/adafruit_products_Adafruit_ESP32_Feather_V2_Pinout.png)
+![Image text](https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/FOTOS/Adafruit_ESP32_Feather_V2_Pinout.png)
 SCK -> Pin 5  
 MISO -> Pin 21  
 MOSI -> Pin 19   
