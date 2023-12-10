@@ -98,7 +98,8 @@ graph TD;
     19["next_channel"]-->20("end_loop");
     20("end_loop")-->2("loop_start");
 ```
-</details>
+
+</details>  
 Se hará una escucha de cada canal de Xminutos.  
 Una vez escuchado un canal se duerme para que no haya problemas con la comunicacion i2c de la tarjeta SD, ya que comparten ...  
 ### Guardar.
