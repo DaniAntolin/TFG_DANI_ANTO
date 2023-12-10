@@ -80,17 +80,17 @@ En esta fase, al igual que la fase anterior, se va a utilizar un protocolo de [C
 Se va a crear un archivo .txt con los datos obtenidos de la radio y luego hacer una copia de ese archivo almacenando los datos para que una vez enviado los datos nuevos obtenidos se eliminen..... a redactar mejor   
 a la hora de enviar, va a diseñar dos versiones:  
 <details>  
-<summary>V1 - CONEXIÓN A PAGINA WEB</summary>      
+<summary><strong>V1 - CONEXIÓN A PAGINA WEB</strong></summary>      
 Una vez obtenido los datos se crea una red wifi donde se crea una direccion ip donde el usuario podrá:<br>  
 <img src="https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/FOTOS/webV1.png" align="left" width="200" />   
-*-cambiar la hora manualmente si se quiere y poder verla*<br>  
-*-modificar los tres podibles canales el ID que tiene, introducir -1 en caso de que algún canal no tengas.*<br>  
-*-ver los datos almacenados de cada día pulsando en "archivos" y poder descargarselos o eliminarlos*<br>  
-*-Cambiar el tiempo de escucha de cada canal sin que este sea inferior a 90segundos, ya que superado este limite habrá una perdida significativa de los datos*<br>  
-*-Cambiar el tiempo wifi, que es el tiempo que puede estar el usuario usando el wifi*<br>  
+<em>-cambiar la hora manualmente si se quiere y poder verla</em><br>  
+<em>-modificar los tres podibles canales el ID que tiene, introducir -1 en caso de que algún canal no tengas.</em><br>  
+<em>-ver los datos almacenados de cada día pulsando en "archivos" y poder descargarselos o eliminarlos</em><br>  
+<em>-Cambiar el tiempo de escucha de cada canal sin que este sea inferior a 90segundos, ya que superado este limite habrá una perdida significativa de los datos</em><br>  
+<em>-Cambiar el tiempo wifi, que es el tiempo que puede estar el usuario usando el wifi</em><br>  
 <br clear="left"/>  
 Para acceder a los datos de la pagina que el usuario a podido modificar se hara una solicitud HTTP GET para obtener esos datos.<br>   
-**EN ESTA VERSION SE VA A IMPLEMENTAR UN BOTON:**  
+<strong>EN ESTA VERSION SE VA A IMPLEMENTAR UN BOTON:</strong><br>  
 <img src="https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/FOTOS/NodoIoT_BOTON_2.jpg" width="200" />   
 El uso del botón es para optimizar el uso de la bateria ya que una conexión prolongada del wifi hará que se gaste la batería.<br>   
 Este botón se usará para que el usuario que quiera obtener los datos o configurar el datalogger a traves de la página web, conecte el wifi del ESP32 pulsando el botón integrado.<br>  
@@ -98,7 +98,7 @@ Una vez haya terminado de manipular la pagina web creada procederá a pulsar otr
 Para solventar un posible problema de que el usuario se le olvide volver a pulsar el boton par desconectar el wifi habra integrado un timer que cuando pase se desconectará automaticamente haciendo que no se pierda bateria inecesaria.<br>  
 </details>  
 <details>  
-<summary>V2 - INFLUXDB Y GRAFANA + RASPBERRY PI</summary>   
+<summary><strong>V2 - INFLUXDB Y GRAFANA + RASPBERRY PI</strong></summary>   
 Mediante una Raspberry pi se creará un punto de acceso. Este punto de acceso servirá para comectarse desde el datalogger. Cada vez que termine de guardar, se intentará conectar al punto de acceso. Una vez conectada se actualizará la hora, se hará una conexión http con solicitud get para obtener la información de la pagina influxdb en el puerto 5000. los datos obtenidos, que son: ..... se guardaran en el archivo variables.txt<br>  
 En el puerto 3000 se graficaran con grafana los datos obtenidos de las distintas estaciones.<br>  
 </details>  
