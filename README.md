@@ -123,7 +123,7 @@ Para acceder a los datos de la pagina que el usuario a podido modificar se hara 
 
 **VER COMO HACE PARA DESCARGAR LOS ARCHIVOS, HACE UNA SOLICITUD DE PUSH O DE GET??!!**  
 **EN ESTA VERSION SE VA A IMPLEMENTAR UN BOTON**  
-![Image text](https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/FOTOS/NodoIoT_BOTON_2.jpg)  
+<img src="https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/FOTOS/NodoIoT_BOTON_2.jpg" width="200" />   
 El uso del botón es para optimizar el uso de la bateria ya que una conexión prolongada del wifi hará que se gaste la batería.   
 Este botón se usará para que el usuario que quiera obtener los datos o configurar el datalogger a traves de la página web, conecte el wifi del ESP32 pulsando el botón integrado.  
 Una vez haya terminado de manipular la pagina web creada procederá a pulsar otra vez el boton para que se apage el wifi.  
