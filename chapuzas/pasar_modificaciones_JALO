@@ -41,7 +41,7 @@ float temp_float; // ºC
 float temp_float_aux;
 int direccion;  // Grados (1..360)
 float velocidad;   // millas/h
-float windspeed_float_aux
+float windspeed_float_aux;
 // Para promediar las lecturas
 int N_humedad=0;  
 int N_temperatura=0;
