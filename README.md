@@ -1,16 +1,19 @@
 # NodoIoT_RFM69
 # TFG: Implementación de nodo IoT para la captura y monitorización de datos de una estación meteorológica Davis
 ## Equipo:
-### Hardware
-Sensor Transmitter Davis 6331/2  
-Sensor de temperatura y humedad Davis  
-Sensor de viento...
-Placa Adafruit Adalogger FeatherWing 
-Tarjeta microSD de 2Gbytes
-PLaca Adafruit Radio FeatherWing  
-Placa Adafruit Feather ESP32 V2  
-Antena ...  
-Botón interruptor  
+### Hardware usado
+**Marca Davis:**  
+[Sensor Transmitter Davis 6331/2](https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/Informaci%C3%B3n/documentos/07395_359_sensor_manual_6331_6332.pdf)  
+[Sensor de temperatura y humedad Davis](https://www.meteo-shopping.com/es/sensores/112-sensor-de-temperatura-y-humedad-con-proteccion-contra-la-radiacion.html)  
+[Sensor de viento](https://www.meteo-shopping.com/es/sensores/109-anemometro-de-paletas-vantage-pro.html)  
+**Nodo IOT:**  
+[Placa Adafruit Adalogger FeatherWing](https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/Informaci%C3%B3n/documentos/adafruit-adalogger-featherwing.pdf)  
+Tarjeta microSD de 2Gbytes   
+[PLaca Adafruit Radio FeatherWing](https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/Informaci%C3%B3n/documentos/RFM69HCW-V1.1.pdf) 
+[Placa Adafruit Feather ESP32 V2](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/Informaci%C3%B3n/documentos/MCU)  
+[Antena](https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/Informaci%C3%B3n/documentos/1052620001.pdf)  
+[Botón interruptor](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/RECIBIR) 
+[Batería y placa solar](https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/Informaci%C3%B3n/documentos/6612-6614_Kit%20alimentation_FICHE%20PRODUIT_FR_DAVIS.pdf)
 ### Software  
 Arduino IDE versión 2.2.1  
 Placa Esp32 de espressif version 2.0.4  
@@ -22,7 +25,7 @@ SCK -> Pin 5
 MISO -> Pin 21  
 MOSI -> Pin 19   
 CS RADIO -> Pin 32  
-CS CD -> Pin 33  
+CS SD -> Pin 33  
 IRQ -> Pin 27  
 PinBotón -> Pin 12  
 PinBotónTierra -> Pin 13  
