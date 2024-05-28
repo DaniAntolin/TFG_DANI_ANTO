@@ -136,17 +136,4 @@ Este botón se usará para que el usuario que quiera obtener los datos o configu
 Una vez haya terminado de manipular la pagina web creada procederá a pulsar otra vez el boton para que se apage el wifi.<br>  
 Para solventar un posible problema de que el usuario se le olvide volver a pulsar el boton par desconectar el wifi habra integrado un timer que cuando pase se desconectará automaticamente haciendo que no se pierda bateria inecesaria.<br>  
 </details>  
-<details>  
-<summary><strong>V2 - INFLUXDB Y GRAFANA + RASPBERRY PI</strong></summary>   
-Mediante una Raspberry pi se creará un punto de acceso. Este punto de acceso servirá para comectarse desde el datalogger.<br>   
-Cada vez que termine de guardar, se intentará conectar al punto de acceso.<br>  
-Una vez conectada se actualizará la hora, se hará una conexión http con solicitud get para obtener la información de la pagina influxdb en el puerto 5000 y poder actualizar los datos, que han podido ser modificados por el usuario.<br> 
-Los datos obtenidos, que son:<br>   
-<em>-modificar los tres podibles canales el ID que tiene.</em><br>  
-<em>-Cambiar la zona horaria</em><br>  
-<em>-Cambiar el tiempo de escucha de cada canal sin que este sea inferior a 90segundos, ya que superado este limite habrá una perdida significativa de los datos</em><br>  
-<em>-Cambiar el tiempo dormido, que será el tiempo que se quede en ahorro de energía</em><br>  
-Estas variables se guardarán en el archivo variables.txt<br>  
-En el puerto 3000 se graficaran con grafana los datos obtenidos de las distintas estaciones.<br>  
-</details>  
 
