@@ -100,7 +100,7 @@ Además de dispones de los siguientes modos de reinicio.<br>
 
 Se utilizará el modo de ahorro de batería light_sleep durante los 2segundos posteriores a una recepción de un paquete de radio, haciendo que sea posible obtener el siguiente paquete, ya que entre un paquete y el siguiente hay una duración minima de 2.5segundos.    
 ### Guardar.
-[**CÓDIGO y DIAGRAMA DE FLUJO**](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/GUARDAR)  
+[**CÓDIGO**](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/GUARDAR)  
 En esta fase, en la tarjeta microSD se creará un archivo con la fecha actual si no está creado. Y dentro los datos obtenidos en la escucha del canal se almacenaran en formato .csv  
 Se va a crear un archivo .txt con variables que puedan ser modiifcadas por el usuario, como puede ser la fecha y hora, el numero de estaciones, el tiempo que está el wifi activo y el tiempo escucha de cada canal.  
 En esta fase, al igual que la fase anterior, se va a utilizar un protocolo de [COMUNICACIÓN SPI](#COMUNICACIONSPI)  
@@ -111,7 +111,7 @@ Aunque la placa cuenta con un reloj interno, es necesario utilizar un reloj exte
 </details>  
 
 ### Enviar.
-[**CÓDIGO y DIAGRAMA DE FLUJO**](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/ENVIAR)    
+[**CÓDIGO**](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/ENVIAR)    
 <details>  
 <summary><strong>V1 - CONEXIÓN A PAGINA WEB</strong></summary>      
 Una vez obtenido los datos se crea una red wifi donde se crea una direccion ip donde el usuario podrá:<br>  
