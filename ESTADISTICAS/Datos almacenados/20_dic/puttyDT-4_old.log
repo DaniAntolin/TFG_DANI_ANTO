@@ -1,0 +1,2894 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2023.12.18 16:35:21 =~=~=~=~=~=~=~=~=~=~=~=
+Ehxr^;1 MpE0)`*z6LM6jrvEG'eD'&9(W;e h%xE9UU!Tb)E%x~d(4"B7 0U 2e* 83488:  1 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -76 CRC: OK
+Dormir: 1
+86118:  2 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -77 CRC: OK
+Dormir: 1
+88749:  3 - Data: 41 0 0 FF C5 0 9 72 FF FF   RSSI: -77 CRC: OK
+Dormir: 1
+91380:  4 - Data: 81 0 0 28 CD 0 DE EF FF FF   RSSI: -77 CRC: OK
+Dormir: 1
+94012:  0 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -76 CRC: OK
+Dormir: 1
+96643:  1 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -81 CRC: OK
+Dormir: 1
+99273:  2 - Data: 91 0 0 0 5 0 74 F1 FF FF   RSSI: -78 CRC: OK
+Dormir: 1
+101905:  3 - Data: 81 0 0 28 CD 0 DE EF FF FF   RSSI: -78 CRC: OK
+Dormir: 1
+104535:  4 - Data: E1 0 0 0 B 0 28 DC FC FF   RSSI: -75 CRC: ERROR
+Dormir: 1
+107167:  0 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -74 CRC: OK
+Dormir: 1
+109798:  1 - Data: A1 0 0 B2 1D 0 41 38 FF FF   RSSI: -75 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:35:1
+Estacion ID: 1
+Temperatura: 18.44 ºC -- Humedad: 43.00
+Dirección del viento: 9 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:35:1;18.44;43.00;0;9
+
+Appending to file: /Estacion2_18_12_2023.csv
+Message appended
+---------------------- Estacion: 3 -- ID: 4
+112433:  2 - Data: 8 0 FE 4C CD 14 F2 B0 67 97   RSSI: -103 CRC: ERROR
+Dormir: 1
+115061:  3 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -75 CRC: OK
+Dormir: 1
+117692:  4 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -75 CRC: OK
+Dormir: 1
+120324:  0 - Data: A1 0 0 B2 1D 0 41 38 FF FF   RSSI: -75 CRC: OK
+Dormir: 1
+123102:  1 - Data: 81 0 0 28 CD 0 DE EF FF FF   RSSI: -75 CRC: OK
+126097:  1 - Data: 50 0 0 FF 75 0 48 5B FF FF   RSSI: -85 CRC: OK
+127580:  1 - Data: A4 0 0 64 1D 0 D5 D FF FF   RSSI: -74 CRC: OK
+Dormir: 1
+129587:  2 - Data: 90 0 0 0 5 0 31 51 FF FF   RSSI: -84 CRC: OK
+130401:  2 - Data: 84 0 0 2E 2D 0 3F FC FF FF   RSSI: -74 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:35:22
+Estacion ID: 4
+Temperatura: 23.22 ºC -- Humedad: 35.00
+Dirección del viento: 9 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:35:22;23.22;35.00;0;9
+
+Appending to file: /Estacion3_18_12_2023.csv
+Message appended
+---------------------- Estacion: 1 -- ID: 0
+Dormir: 1
+135017:  4 - Data: 8B 9D 3 D9 38 E8 58 58 1 F9   RSSI: -110 CRC: ERROR
+Dormir: 1
+137580:  0 - Data: 50 0 0 FF 75 0 48 5B FF FF   RSSI: -85 CRC: OK
+Dormir: 1
+139587:  1 - Data: A0 0 0 2F 2D 0 3B 65 FF FF   RSSI: -84 CRC: OK
+Dormir: 1
+141594:  2 - Data: 80 0 0 20 D 0 24 BA FF FF   RSSI: -84 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:35:33
+Estacion ID: 0
+Temperatura: 10.67 ºC -- Humedad: 55.00
+Dirección del viento: 9 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:35:33;10.67;55.00;0;9
+
+Appending to file: /Estacion1_18_12_2023.csv
+Message appended
+---------------------- Estacion: 2 -- ID: 1
+144085:  3 - Data: BE 5A 1C EE C2 EF BC 34 25 38   RSSI: -103 CRC: ERROR
+Dormir: 1
+146637:  4 - Data: 50 0 0 FF 75 0 48 5B FF FF   RSSI: -85 CRC: OK
+Dormir: 1
+Dormir: 1
+151774:  1 - Data: 80 0 0 20 D 0 24 BA FF FF   RSSI: -78 CRC: OK
+Dormir: 1
+154344:  2 - Data: E0 0 0 80 5 0 4F 97 FF FF   RSSI: -78 CRC: OK
+158577:  2 - Data: 54 0 0 FF 75 0 4E FA FF FF   RSSI: -80 CRC: OK
+165013:  2 - Data: 81 0 0 28 CD 0 DE EF FF FF   RSSI: -75 CRC: OK
+Dormir: 1
+167646:  3 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -69 CRC: OK
+Dormir: 1
+170278:  4 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -69 CRC: OK
+Dormir: 1
+172909:  0 - Data: A1 0 0 B3 1D 0 76 8 FF FF   RSSI: -68 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:36:4
+Estacion ID: 1
+Temperatura: 18.44 ºC -- Humedad: 43.00
+Dirección del viento: 9 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:36:4;18.44;43.00;0;9
+
+Appending to file: /Estacion2_18_12_2023.csv
+Message appended
+---------------------- Estacion: 3 -- ID: 4
+175547:  1 - Data: 53 A0 BD 4 EB A9 69 9E 77 13   RSSI: -94 CRC: ERROR
+Dormir: 1
+178169:  2 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -68 CRC: OK
+Dormir: 1
+180802:  3 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -68 CRC: OK
+Dormir: 1
+183433:  4 - Data: 61 0 0 FF C5 0 3C 7A FF FF   RSSI: -69 CRC: OK
+Dormir: 1
+186213:  0 - Data: 81 0 0 28 CD 0 DE EF FF FF   RSSI: -69 CRC: OK
+187708:  0 - Data: 50 0 0 FF 75 0 48 5B FF FF   RSSI: -78 CRC: OK
+195192:  0 - Data: A4 0 0 65 1D 0 E2 3D FF FF   RSSI: -69 CRC: OK
+Dormir: 1
+198012:  1 - Data: 84 0 0 2E 1D 0 3A 69 FF FF   RSSI: -71 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:36:29
+Estacion ID: 4
+Temperatura: 23.17 ºC -- Humedad: 35.00
+Dirección del viento: 9 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:36:29;23.17;35.00;0;9
+
+Appending to file: /Estacion3_18_12_2023.csv
+Message appended
+---------------------- Estacion: 1 -- ID: 0
+Dormir: 1
+Dormir: 1
+Dormir: 1
+Dormir: 1
+212142:  1 - Data: DE 5E A4 E4 27 FF 83 E 50 98   RSSI: -104 CRC: ERROR
+214982:  1 - Data: A1 0 0 B3 1D 0 76 8 FF FF   RSSI: -67 CRC: OK
+215938:  1 - Data: E0 0 0 80 5 0 4F 97 FF FF   RSSI: -78 CRC: OK
+Dormir: 1
+217945:  2 - Data: 81 0 0 28 BD 0 D6 B6 FF FF   RSSI: -69 CRC: OK
+218508:  2 - Data: 50 0 0 FF 75 0 48 5B FF FF   RSSI: -78 CRC: OK
+Dormir: 1
+220515:  3 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -69 CRC: OK
+221077:  3 - Data: 40 0 0 0 5 0 95 E5 FF FF   RSSI: -77 CRC: OK
+Dormir: 1
+223084:  4 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -68 CRC: OK
+223645:  4 - Data: 80 0 0 20 D 0 24 BA FF FF   RSSI: -76 CRC: OK
+Dormir: 1
+225652:  0 - Data: A1 0 0 B3 1D 0 76 8 FF FF   RSSI: -68 CRC: OK
+226213:  0 - Data: E0 0 0 80 5 0 4F 97 FF FF   RSSI: -77 CRC: OK
+Dormir: 1
+228220:  1 - Data: 81 0 0 28 BD 0 D6 B6 FF FF   RSSI: -68 CRC: OK
+228781:  1 - Data: 50 0 0 FF 75 0 48 5B FF FF   RSSI: -75 CRC: OK
+Dormir: 1
+230788:  2 - Data: 94 0 0 0 5 0 37 F0 FF FF   RSSI: -71 CRC: OK
+231350:  2 - Data: 90 0 0 0 5 0 31 51 FF FF   RSSI: -77 CRC: OK
+Dormir: 1
+233357:  3 - Data: 84 0 0 2E 1D 0 3A 69 FF FF   RSSI: -72 CRC: OK
+233401:  3 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -71 CRC: OK
+233920:  3 - Data: 80 0 0 20 1D 0 27 C9 FF FF   RSSI: -77 CRC: OK
+Dormir: 1
+235927:  4 - Data: E4 0 0 80 5 0 49 36 FF FF   RSSI: -74 CRC: OK
+236033:  4 - Data: 61 0 0 FF C5 0 3C 7A FF FF   RSSI: -74 CRC: OK
+236488:  4 - Data: E0 0 0 80 5 0 4F 97 FF FF   RSSI: -78 CRC: OK
+Dormir: 1
+238496:  0 - Data: 54 0 0 FF 75 0 4E FA FF FF   RSSI: -75 CRC: OK
+238664:  0 - Data: 81 0 0 28 CD 0 DE EF FF FF   RSSI: -75 CRC: OK
+239058:  0 - Data: 50 0 0 FF 75 0 48 5B FF FF   RSSI: -79 CRC: OK
+Dormir: 1
+241065:  1 - Data: A4 0 0 65 1D 0 E2 3D FF FF   RSSI: -75 CRC: OK
+241295:  1 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -74 CRC: OK
+241626:  1 - Data: A0 0 0 31 2D 0 63 7 FF FF   RSSI: -77 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:37:13
+Estacion ID: 0
+Temperatura: 10.69 ºC -- Humedad: 56.00
+Dirección del viento: 9 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:37:13;10.69;56.00;0;9
+
+Appending to file: /Estacion1_18_12_2023.csv
+Message appended
+---------------------- Estacion: 2 -- ID: 1
+243938:  2 - Data: 5C B9 4E 6D D3 7A 12 CD 47 F   RSSI: -104 CRC: ERROR
+244195:  2 - Data: 80 0 0 20 D 0 24 BA FF FF   RSSI: -78 CRC: OK
+Dormir: 1
+246304:  3 - Data: E4 0 0 80 5 0 49 36 FF FF   RSSI: -75 CRC: OK
+246556:  3 - Data: 41 0 0 FF C5 0 9 72 FF FF   RSSI: -74 CRC: OK
+Dormir: 1
+248752:  4 - Data: 54 0 0 FF 75 0 4E FA FF FF   RSSI: -73 CRC: OK
+249187:  4 - Data: 81 0 0 28 BD 0 D6 B6 FF FF   RSSI: -71 CRC: OK
+Dormir: 1
+251571:  0 - Data: A4 0 0 65 1D 0 E2 3D FF FF   RSSI: -74 CRC: OK
+251818:  0 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+254388:  1 - Data: 84 0 0 2E 1D 0 3A 69 FF FF   RSSI: -72 CRC: OK
+254448:  1 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -68 CRC: OK
+Dormir: 1
+257037:  2 - Data: E0 0 0 80 5 0 4F 97 FF FF   RSSI: -77 CRC: OK
+257082:  2 - Data: 91 0 0 0 5 0 74 F1 FF FF   RSSI: -68 CRC: OK
+Dormir: 1
+259608:  3 - Data: 50 0 0 FF 75 0 48 5B FF FF   RSSI: -75 CRC: OK
+259715:  3 - Data: 81 0 0 28 BD 0 D6 B6 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+262178:  4 - Data: 60 0 0 1 45 0 9A 11 FF FF   RSSI: -75 CRC: OK
+262347:  4 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -67 CRC: OK
+Dormir: 1
+264747:  0 - Data: 80 0 0 20 D 0 24 BA FF FF   RSSI: -75 CRC: OK
+264979:  0 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -67 CRC: OK
+Dormir: 1
+267317:  1 - Data: E0 0 0 80 5 0 4F 97 FF FF   RSSI: -74 CRC: OK
+267611:  1 - Data: A1 0 0 B3 1D 0 76 8 FF FF   RSSI: -67 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:37:39
+Estacion ID: 1
+Temperatura: 18.39 ºC -- Humedad: 43.00
+Dirección del viento: 9 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:37:39;18.39;43.00;0;9
+
+Appending to file: /Estacion2_18_12_2023.csv
+Message appended
+---------------------- Estacion: 3 -- ID: 4
+269947:  2 - Data: 38 69 82 4A 3C 2B CF 83 E 5A   RSSI: -104 CRC: ERROR
+270242:  2 - Data: 81 0 0 28 BD 0 D6 B6 FF FF   RSSI: -67 CRC: OK
+Dormir: 1
+272477:  3 - Data: 40 0 0 0 5 0 95 E5 FF FF   RSSI: -75 CRC: OK
+272873:  3 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -67 CRC: OK
+Dormir: 1
+275290:  4 - Data: 80 0 0 20 1D 0 27 C9 FF FF   RSSI: -76 CRC: OK
+275505:  4 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -68 CRC: OK
+Dormir: 1
+278103:  0 - Data: E0 0 0 80 5 0 4F 97 FF FF   RSSI: -76 CRC: OK
+278136:  0 - Data: A1 0 0 B3 1D 0 76 8 FF FF   RSSI: -67 CRC: OK
+Dormir: 1
+280916:  1 - Data: 50 0 0 FF 75 0 48 5B FF FF   RSSI: -76 CRC: OK
+282582:  1 - Data: 54 0 0 FF 75 0 4E FA FF FF   RSSI: -69 CRC: OK
+Dormir: 1
+284589:  2 - Data: 90 0 0 0 5 0 31 51 FF FF   RSSI: -75 CRC: OK
+285401:  2 - Data: 94 0 0 0 5 0 37 F0 FF FF   RSSI: -69 CRC: OK
+Dormir: 1
+287408:  3 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -67 CRC: OK
+288222:  3 - Data: 84 0 0 2E 1D 0 3A 69 FF FF   RSSI: -69 CRC: OK
+Dormir: 1
+290229:  4 - Data: 61 0 0 FF C5 0 3C 7A FF FF   RSSI: -67 CRC: OK
+291041:  4 - Data: E4 0 0 80 5 0 49 36 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+293048:  0 - Data: 81 0 0 28 CD 0 DE EF FF FF   RSSI: -67 CRC: OK
+293860:  0 - Data: 54 0 0 FF 75 0 4E FA FF FF   RSSI: -69 CRC: OK
+Dormir: 1
+295867:  1 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -68 CRC: OK
+296679:  1 - Data: A4 0 0 65 1D 0 E2 3D FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:38:8
+Estacion ID: 4
+Temperatura: 23.17 ºC -- Humedad: 35.00
+Dirección del viento: 9 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:38:8;23.17;35.00;0;9
+
+Appending to file: /Estacion3_18_12_2023.csv
+Message appended
+---------------------- Estacion: 1 -- ID: 0
+Dormir: 1
+Dormir: 1
+Dormir: 1
+306421:  0 - Data: 3C CD 3C D7 41 5C 98 AF 71 70   RSSI: -92 CRC: ERROR
+Dormir: 1
+308984:  1 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -66 CRC: OK
+310775:  1 - Data: 84 0 0 2E 1D 0 3A 69 FF FF   RSSI: -71 CRC: OK
+318665:  1 - Data: E0 0 0 80 5 0 4F 97 FF FF   RSSI: -75 CRC: OK
+Dormir: 1
+321236:  2 - Data: 50 0 0 FF 75 0 48 5B FF FF   RSSI: -75 CRC: OK
+Dormir: 1
+323805:  3 - Data: 40 0 0 0 5 0 95 E5 FF FF   RSSI: -76 CRC: OK
+Dormir: 1
+326373:  4 - Data: 80 0 0 20 1D 0 27 C9 FF FF   RSSI: -76 CRC: OK
+Dormir: 1
+328942:  0 - Data: E0 0 0 80 5 0 4F 97 FF FF   RSSI: -75 CRC: OK
+Dormir: 1
+331510:  1 - Data: 50 0 0 FF 75 0 48 5B FF FF   RSSI: -75 CRC: OK
+Dormir: 1
+334078:  2 - Data: 90 0 0 0 5 0 31 51 FF FF   RSSI: -78 CRC: OK
+Dormir: 1
+336646:  3 - Data: 80 0 0 20 1D 0 27 C9 FF FF   RSSI: -78 CRC: OK
+Dormir: 1
+339215:  4 - Data: E0 0 0 80 5 0 4F 97 FF FF   RSSI: -78 CRC: OK
+Dormir: 1
+341783:  0 - Data: 50 0 0 FF 75 0 48 5B FF FF   RSSI: -78 CRC: OK
+Dormir: 1
+344353:  1 - Data: A0 0 0 31 2D 0 63 7 FF FF   RSSI: -78 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:38:55
+Estacion ID: 0
+Temperatura: 10.72 ºC -- Humedad: 56.00
+Dirección del viento: 9 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:38:55;10.72;56.00;0;9
+
+Appending to file: /Estacion1_18_12_2023.csv
+Message appended
+---------------------- Estacion: 2 -- ID: 1
+346971:  2 - Data: AB 2 6F FD 1B DF 98 7F F3 20   RSSI: -105 CRC: ERROR
+Dormir: 1
+349490:  3 - Data: E0 0 0 80 5 0 4F 97 FF FF   RSSI: -84 CRC: OK
+Dormir: 1
+352057:  4 - Data: 50 0 0 FF 75 0 48 5B FF FF   RSSI: -81 CRC: OK
+Dormir: 1
+354627:  0 - Data: A0 0 0 31 2D 0 63 7 FF FF   RSSI: -84 CRC: OK
+Dormir: 1
+357196:  1 - Data: 80 0 0 20 1D 0 27 C9 FF FF   RSSI: -83 CRC: OK
+359677:  1 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -75 CRC: OK
+Dormir: 1
+361684:  2 - Data: E0 0 0 80 5 0 4F 97 FF FF   RSSI: -81 CRC: OK
+Dormir: 1
+364940:  3 - Data: 81 0 0 28 BD 0 D6 B6 FF FF   RSSI: -85 CRC: OK
+Dormir: 1
+Dormir: 1
+370223:  0 - Data: 71 35 15 76 80 5C 8E 1D 3B 17   RSSI: -94 CRC: ERROR
+Dormir: 1
+372838:  1 - Data: 87 2E 97 F2 2A DA DC 29 2B 2B   RSSI: -109 CRC: ERROR
+Dormir: 1
+375463:  2 - Data: 81 0 0 28 BD 0 D6 B6 FF FF   RSSI: -69 CRC: OK
+Dormir: 1
+378093:  3 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -71 CRC: OK
+Dormir: 1
+380725:  4 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -72 CRC: OK
+Dormir: 1
+383357:  0 - Data: A1 0 0 B7 1D 0 AA C8 FF FF   RSSI: -72 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:39:34
+Estacion ID: 1
+Temperatura: 18.39 ºC -- Humedad: 43.00
+Dirección del viento: 9 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:39:34;18.39;43.00;0;9
+
+Appending to file: /Estacion2_18_12_2023.csv
+Message appended
+---------------------- Estacion: 3 -- ID: 4
+385995:  1 - Data: 16 76 D F 31 D2 5B C5 B8 5A   RSSI: -105 CRC: ERROR
+Dormir: 1
+388619:  2 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -73 CRC: OK
+Dormir: 1
+391250:  3 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -75 CRC: OK
+Dormir: 1
+393882:  4 - Data: 61 0 0 FF C5 0 3C 7A FF FF   RSSI: -75 CRC: OK
+Dormir: 1
+396662:  0 - Data: 81 0 0 28 BD 0 D6 B6 FF FF   RSSI: -73 CRC: OK
+
+Tiempo escucha: 90
+Tiempo wifi: 5
+Estacion1 (ID): 0 -- Estacion2 (ID): 1 -- Estacion3 (ID): 4
+AP IP address: 192.168.4.1
+[WiFi-event] event: 11
+WiFi access point  stopped
+[WiFi-event] event: 10
+WiFi access point started
+Servidor iniciado
+18/12/2023     Hora: 16:39:50
+Estacion ID: 4
+Temperatura: 0.00 ºC -- Humedad: 0.00
+Dirección del viento: 0 -- Velocidad: 0
+NO todos los datos leidos
+Save data: 18-12-2023;16:39:50;0.00;0.00;0;0
+
+Appending to file: /Estacion3_18_12_2023.csv
+Message appended
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 401341
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 401892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 402092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 402292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 402492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 402692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 402892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 403092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 403292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 403492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 403692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 403892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 404092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 404292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 404492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 404692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 404892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 405092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 405292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 405492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 405692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 405892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 406092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 406292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 406492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 406692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 406892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 407092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 407292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 407492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 407692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 407892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 408092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 408292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 408492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 408692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 408892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 409092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 409292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 409492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 409692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 409892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 410092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 410292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 410492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 410692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 410892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 411092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 411292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 411492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 411692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 411892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 412092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 412292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 412492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 412692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 412892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 413092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 413292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 413492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 413692
+[WiFi-event] event: 12
+Client connected
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 413892
+[WiFi-event] event: 14
+Assigned IP address to client
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 414092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 414292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 414492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 414692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 414892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 415092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 415292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 415492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 415692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 415892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 416092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 416292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 416492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 416692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 416892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 417092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 417292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 417492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 417692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 417892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 418092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 418292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 418492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 418692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 418892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 419092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 419292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 419492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 419692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 419892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 420092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 420292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 420492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 420692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 420892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 421092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 421292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 421492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 421692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 421892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 422092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 422292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 422492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 422692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 422892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 423092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 423292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 423492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 423692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 423892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 424092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 424292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 424492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 424692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 424892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 425092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 425292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 425492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 425692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 425892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 426092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 426292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 426492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 426692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 426892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 427092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 427292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 427492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 427692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 427892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 428092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 428292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 428492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 428692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 428892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 429092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 429292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 429492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 429692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 429892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 430092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 430292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 430492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 430692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 430892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 431092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 431292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 431492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 431692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 431892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 432092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 432292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 432492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 432692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 432892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 433092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 433292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 433492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 433692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 433892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 434092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 434292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 434492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 434692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 434892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 435092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 435292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 435492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 435692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 435892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 436092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 436292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 436492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 436692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 436892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 437092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 437292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 437492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 437692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 437892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 438092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 438292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 438492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 438692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 438892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 439092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 439292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 439492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 439692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 439892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 440092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 440292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 440492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 440692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 440892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 441092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 441292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 441492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 441692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 441892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 442092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 442292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 442492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 442692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 442892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 443092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 443292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 443492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 443692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 443892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 444092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 444292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 444492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 444692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 444892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 445092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 445292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 445492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 445692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 445892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 446092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 446292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 446492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 446692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 446892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 447092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 447292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 447492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 447692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 447892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 448092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 448292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 448492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 448692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 448892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 449092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 449292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 449492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 449692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 449892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 450092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 450292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 450492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 450692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 450892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 451092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 451292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 451492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 451692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 451892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 452092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 452292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 452492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 452692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 452892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 453092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 453292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 453492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 453692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 453892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 454092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 454292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 454492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 454692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 454892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 455092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 455292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 455492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 455692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 455892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 456092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 456292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 456492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 456692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 456892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 457092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 457292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 457492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 457692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 457892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 458092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 458292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 458492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 458692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 458892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 459092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 459292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 459492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 459692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 459892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 460092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 460292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 460492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 460692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 460892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 461092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 461292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 461492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 461692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 461892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 462092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 462292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 462492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 462692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 462892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 463092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 463292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 463492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 463692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 463892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 464092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 464292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 464492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 464692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 464892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 465092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 465292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 465492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 465692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 465892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 466092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 466292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 466492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 466692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 466892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 467092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 467292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 467492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 467692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 467892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 468092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 468292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 468492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 468692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 468892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 469092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 469292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 469492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 469692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 469892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 470092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 470292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 470492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 470692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 470892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 471092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 471292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 471492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 471692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 471892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 472092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 472292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 472492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 472692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 472892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 473092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 473292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 473492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 473692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 473892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 474092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 474292
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 474492
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 474692
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 474892
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 475092
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 475293
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 475493
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 475693
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 475893
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 476095
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 476295
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 476495
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 476695
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 476895
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 477095
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 477295
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 477495
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 477695
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 477895
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 478095
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 478295
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 478495
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 478695
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 478895
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 479095
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 479295
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 479495
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 479695
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 479895
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 480095
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 480295
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 480495
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 480695
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 480895
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 481095
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 481295
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 481495
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 481695
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 481895
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 482095
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 482295
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 482495
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 482695
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 482895
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 483095
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 483295
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 483495
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 483695
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 483895
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 484095
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 484295
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 484495
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 484695
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 484895
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 485095
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 485295
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 485495
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 485695
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 485895
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 486095
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 486295
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 486495
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 486695
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 486895
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 487095
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 487295
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 487495
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 487695
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 487895
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 488095
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 488295
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 488495
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 488695
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 488895
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 489095
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 489295
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 489495
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 489695
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 489895
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 490095
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 490295
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 490495
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 490695
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 490895
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 491095
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 491295
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 491495
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 491695
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 491895
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 492095
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 492295
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 492495
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 492695
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 492895
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 493097
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 493297
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 493497
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 493697
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 493897
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 494097
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 494297
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 494497
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 494697
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 494897
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 495097
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 495299
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 495499
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 495699
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 495899
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 496099
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 496299
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 496499
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 496699
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 496899
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 497099
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 497299
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 497499
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 497699
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 497899
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 498099
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 498299
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 498499
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 498699
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 498899
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 499099
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 499299
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 499499
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 499699
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 499899
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 500099
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 500299
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 500499
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 500699
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 500899
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 501099
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 501299
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 501499
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 501699
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 501899
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 502099
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 502299
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 502499
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 502699
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 502899
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 503099
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 503299
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 503499
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 503699
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 503899
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 504099
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 504299
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 504499
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 504699
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 504899
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 505099
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 505299
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 505499
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 505699
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 505899
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 506099
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 506299
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 506499
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 506699
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 506899
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 507099
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 507299
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 507499
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 507699
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 507899
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 508101
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 508301
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 508501
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 508701
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 508901
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 509101
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 509301
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 509501
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 509701
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 509901
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 510102
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 510302
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 510502
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 510702
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 510902
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 511103
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 511304
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 511504
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 511704
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 511904
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 512104
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 512304
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 512504
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 512704
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 512904
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 513104
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 513304
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 513504
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 513704
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 513904
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 514104
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 514304
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 514504
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 514704
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 514904
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 515104
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 515304
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 515504
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 515704
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 515904
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 516104
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 516304
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 516504
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 516704
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 516904
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 517104
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 517304
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 517504
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 517704
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 517904
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 518104
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 518304
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 518504
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 518704
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 518904
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 519104
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 519304
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 519504
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 519704
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 519904
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 520104
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 520304
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 520504
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 520704
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 520904
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 521104
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 521304
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 521504
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 521704
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 521904
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 522104
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 522304
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 522504
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 522704
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 522904
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 523104
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 523304
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 523504
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 523704
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 523904
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 524105
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 524305
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 524505
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 524705
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 524905
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 525105
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 525305
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 525505
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 525705
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 525905
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 526105
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 526305
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 526505
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 526705
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 526905
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 527105
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 527305
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 527505
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 527705
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 527905
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 528105
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 528305
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 528505
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 528705
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 528905
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 529107
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 529308
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 529508
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 529708
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 529908
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 530108
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 530308
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 530508
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 530708
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 530908
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 531108
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 531308
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 531508
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 531708
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 531908
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 532108
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 532308
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 532508
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 532708
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 532908
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 533110
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 533310
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 533510
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 533710
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 533910
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 534110
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 534310
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 534510
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 534710
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 534910
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 535112
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 535313
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 535513
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 535713
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 535913
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 536115
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 536315
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 536515
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 536715
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 536915
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 537115
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 537315
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 537515
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 537715
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 537915
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 538115
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 538315
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 538515
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 538715
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 538915
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 539115
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 539315
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 539515
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 539715
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 539915
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 540115
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 540315
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 540515
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 540715
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 540915
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 541115
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 541315
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 541515
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 541715
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 541915
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 542115
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 542315
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 542515
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 542715
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 542915
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 543115
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 543315
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 543515
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 543715
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 543915
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 544115
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 544315
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 544515
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 544715
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 544915
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 545115
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 545315
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 545515
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 545715
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 545915
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 546115
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 546315
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 546515
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 546715
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 546915
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 547115
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 547315
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 547515
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 547715
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 547915
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 548115
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 548315
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 548515
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 548715
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 548915
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 549115
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 549315
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 549515
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 549715
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 549915
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 550115
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 550315
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 550515
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 550715
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 550915
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 551117
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 551317
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 551517
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 551717
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 551917
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 552117
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 552317
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 552517
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 552717
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 552917
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 553117
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 553317
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 553517
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 553717
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 553917
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 554117
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 554317
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 554517
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 554717
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 554917
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 555117
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 555317
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 555517
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 555717
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 555917
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 556118
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 556318
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 556518
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 556718
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 556918
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 557118
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 557318
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 557518
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 557718
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 557918
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 558118
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 558318
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 558518
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 558718
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 558918
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 559118
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 559318
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 559518
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 559718
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 559918
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 560118
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 560318
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 560518
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 560718
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 560918
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 561118
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 561318
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 561518
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 561718
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 561918
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 562120
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 562320
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 562520
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 562720
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 562920
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 563121
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 563322
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 563522
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 563722
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 563922
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 564122
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 564322
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 564522
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 564722
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 564922
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 565123
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 565323
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 565523
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 565723
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 565923
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 566123
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 566323
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 566523
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 566723
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 566923
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 567123
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 567323
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 567523
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 567723
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 567923
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 568123
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 568323
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 568523
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 568723
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 568923
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 569123
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 569323
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 569523
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 569723
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 569923
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 570123
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 570323
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 570523
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 570723
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 570923
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 571123
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 571323
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 571523
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 571723
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 571923
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 572123
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 572323
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 572523
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 572723
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 572923
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 573123
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 573323
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 573523
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 573723
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 573923
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 574123
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 574323
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 574523
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 574723
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 574923
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 575125
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 575325
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 575525
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 575725
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 575925
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 576126
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 576326
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 576526
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 576726
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 576926
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 577127
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 577327
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 577527
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 577727
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 577927
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 578128
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 578328
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 578528
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 578728
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 578928
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 579129
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 579330
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 579530
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 579730
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 579930
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 580130
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 580330
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 580530
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 580730
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 580930
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 581131
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 581331
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 581531
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 581731
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 581931
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 582131
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 582331
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 582531
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 582731
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 582931
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 583133
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 583333
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 583533
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 583733
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 583933
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 584133
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 584333
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 584533
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 584733
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 584933
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 585133
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 585333
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 585533
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 585733
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 585933
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 586133
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 586333
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 586533
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 586733
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 586933
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 587133
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 587333
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 587533
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 587733
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 587933
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 588133
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 588333
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 588533
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 588733
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 588933
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 589133
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 589333
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 589533
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 589733
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 589933
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 590133
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 590333
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 590533
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 590733
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 590933
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 591134
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 591334
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 591534
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 591734
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 591934
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 592134
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 592334
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 592534
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 592734
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 592934
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 593134
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 593334
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 593534
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 593734
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 593934
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 594134
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 594334
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 594534
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 594734
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 594934
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 595134
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 595334
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 595534
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 595734
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 595934
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 596134
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 596334
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 596534
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 596734
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 596934
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 597134
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 597334
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 597534
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 597734
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 597934
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 598134
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 598334
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 598534
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 598734
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 598934
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 599134
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 599334
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 599534
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 599734
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 599934
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 600134
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 600334
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 600534
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 600734
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 600934
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 601134
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 601334
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 601534
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 601734
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 601934
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 602134
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 602334
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 602534
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 602734
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 602934
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 603134
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 603334
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 603534
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 603734
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 603934
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 604134
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 604334
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 604534
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 604734
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 604934
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 605134
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 605334
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 605534
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 605734
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 605934
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 606134
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 606334
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 606534
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 606734
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 606934
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 607134
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 607334
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 607534
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 607734
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 607934
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 608134
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 608334
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 608534
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 608734
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 608934
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 609134
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 609334
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 609534
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 609734
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 609934
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 610134
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 610334
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 610534
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 610734
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 610934
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 611134
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 611334
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 611534
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 611734
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 611934
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 612134
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 612335
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 612535
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 612735
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 612935
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 613135
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 613335
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 613535
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 613735
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 613935
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 614135
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 614335
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 614535
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 614735
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 614935
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 615135
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 615335
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 615535
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 615735
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 615935
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 616135
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 616335
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 616535
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 616735
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 616935
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 617135
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 617335
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 617535
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 617735
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 617935
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 618136
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 618336
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 618536
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 618736
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 618936
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 619136
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 619336
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 619536
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 619736
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 619936
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 620136
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 620336
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 620536
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 620736
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 620936
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 621136
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 621336
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 621536
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 621736
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 621936
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 622136
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 622336
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 622536
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 622736
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 622936
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 623136
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 623336
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 623536
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 623736
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 623936
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 624136
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 624336
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 624536
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 624736
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 624936
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 625136
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 625336
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 625536
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 625736
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 625936
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 626136
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 626337
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 626537
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 626737
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 626937
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 627138
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 627338
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 627538
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 627738
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 627938
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 628138
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 628338
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 628538
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 628738
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 628938
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 629138
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 629338
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 629538
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 629738
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 629938
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 630138
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 630338
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 630538
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 630738
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 630938
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 631138
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 631338
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 631538
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 631738
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 631938
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 632138
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 632338
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 632538
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 632738
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 632938
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 633138
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 633338
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 633538
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 633738
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 633938
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 634138
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 634338
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 634538
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 634738
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 634938
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 635138
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 635338
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 635538
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 635738
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 635938
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 636138
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 636338
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 636538
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 636738
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 636938
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 637138
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 637338
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 637538
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 637738
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 637938
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 638138
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 638338
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 638538
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 638738
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 638938
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 639138
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 639338
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 639538
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 639738
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 639938
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 640138
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 640338
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 640538
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 640738
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 640938
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 641138
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 641338
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 641538
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 641738
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 641938
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 642138
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 642339
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 642539
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 642739
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 642939
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 643139
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 643339
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 643539
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 643739
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 643939
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 644139
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 644339
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 644539
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 644739
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 644939
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 645139
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 645339
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 645539
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 645739
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 645939
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 646139
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 646339
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 646539
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 646739
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 646939
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 647139
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 647339
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 647539
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 647739
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 647939
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 648139
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 648339
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 648539
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 648739
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 648939
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 649139
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 649339
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 649539
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 649739
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 649939
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 650139
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 650339
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 650539
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 650739
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 650939
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 651139
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 651339
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 651539
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 651739
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 651939
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 652139
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 652339
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 652539
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 652739
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 652939
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 653139
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 653339
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 653539
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 653739
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 653939
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 654139
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 654339
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 654539
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 654739
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 654939
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 655139
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 655339
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 655539
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 655739
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 655939
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 656139
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 656339
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 656539
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 656739
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 656939
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 657139
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 657339
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 657539
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 657739
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 657939
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 658139
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 658339
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 658539
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 658739
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 658939
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 659139
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 659339
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 659539
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 659739
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 659939
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 660139
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 660339
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 660539
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 660739
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 660939
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 661139
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 661339
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 661539
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 661739
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 661939
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 662139
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 662339
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 662539
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 662739
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 662939
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 663139
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 663339
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 663539
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 663739
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 663939
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 664139
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 664339
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 664539
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 664739
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 664939
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 665139
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 665339
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 665539
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 665739
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 665939
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 666140
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 666340
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 666540
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 666740
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 666940
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 667140
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 667340
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 667540
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 667740
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 667940
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 668140
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 668340
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 668540
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 668740
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 668940
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 669140
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 669340
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 669540
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 669740
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 669940
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 670141
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 670341
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 670541
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 670741
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 670941
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 671141
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 671341
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 671541
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 671741
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 671941
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 672141
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 672341
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 672541
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 672741
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 672941
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 673141
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 673341
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 673541
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 673741
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 673941
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 674141
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 674341
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 674541
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 674741
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 674941
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 675141
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 675341
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 675541
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 675741
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 675941
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 676141
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 676341
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 676541
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 676741
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 676941
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 677141
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 677341
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 677541
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 677741
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 677941
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 678141
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 678341
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 678541
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 678741
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 678941
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 679141
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 679341
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 679541
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 679741
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 679941
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 680142
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 680342
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 680542
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 680742
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 680942
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 681142
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 681342
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 681542
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 681742
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 681942
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 682142
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 682342
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 682542
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 682742
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 682942
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 683142
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 683342
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 683542
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 683742
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 683942
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 684142
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 684342
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 684542
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 684742
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 684942
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 685142
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 685342
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 685542
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 685742
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 685942
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 686142
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 686342
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 686542
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 686742
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 686942
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 687142
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 687342
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 687542
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 687742
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 687942
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 688142
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 688342
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 688542
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 688742
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 688942
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 689142
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 689342
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 689542
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 689742
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 689942
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 690142
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 690342
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 690542
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 690742
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 690942
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 691142
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 691342
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 691542
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 691742
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 691942
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 692142
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 692342
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 692542
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 692742
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 692942
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 693142
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 693342
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 693542
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 693742
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 693942
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 694142
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 694342
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 694542
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 694742
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 694942
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 695142
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 695342
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 695542
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 695742
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 695942
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 696142
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 696342
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 696542
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 696742
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 696942
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 697142
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 697342
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 697542
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 697742
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 697942
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 698142
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 698342
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 698542
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 698742
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 698942
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 699142
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 699342
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 699542
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 699742
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 699942
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 700142
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 700342
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 700542
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 700742
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 700942
+Tiempo wifi (min): 5--  tiempoINT: 401341   tiempoACT: 701142
+[WiFi-event] event: 13
+Client disconnected
+[WiFi-event] event: 11
+WiFi access point  stopped
+Wifi Apagada 
+---------------------- Estacion: 1 -- ID: 0
+711506:  0 - Data: 81 0 0 28 9D 0 D0 50 FF FF   RSSI: -76 CRC: OK
+713464:  0 - Data: A0 0 0 36 2D 0 E6 97 FF FF   RSSI: -83 CRC: OK
+Dormir: 1
+715471:  1 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -76 CRC: OK
+716034:  1 - Data: 80 0 0 20 1D 0 27 C9 FF FF   RSSI: -84 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:45:7
+Estacion ID: 0
+Temperatura: 10.72 ºC -- Humedad: 56.00
+Dirección del viento: 9 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:45:7;10.72;56.00;0;9
+
+Appending to file: /Estacion1_18_12_2023.csv
+Message appended
+---------------------- Estacion: 2 -- ID: 1
+718637:  2 - Data: C0 E5 C5 28 D8 3D FE A8 7C BC   RSSI: -107 CRC: ERROR
+Dormir: 1
+720712:  3 - Data: 41 0 0 FF C5 0 9 72 FF FF   RSSI: -76 CRC: OK
+Dormir: 1
+722719:  4 - Data: 81 0 0 28 9D 0 D0 50 FF FF   RSSI: -76 CRC: OK
+Dormir: 1
+724727:  0 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -78 CRC: OK
+Dormir: 1
+727285:  1 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -79 CRC: OK
+Dormir: 1
+729917:  2 - Data: 91 0 0 0 5 0 74 F1 FF FF   RSSI: -81 CRC: OK
+Dormir: 1
+732549:  3 - Data: 81 0 0 28 9D 0 D0 50 FF FF   RSSI: -77 CRC: OK
+Dormir: 1
+Dormir: 1
+737813:  0 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -71 CRC: OK
+Dormir: 1
+740443:  1 - Data: A1 0 0 B9 1D 0 B1 C9 FF FF   RSSI: -76 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:45:31
+Estacion ID: 1
+Temperatura: 18.28 ºC -- Humedad: 44.00
+Dirección del viento: 9 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:45:31;18.28;44.00;0;9
+
+Appending to file: /Estacion2_18_12_2023.csv
+Message appended
+---------------------- Estacion: 3 -- ID: 4
+743147:  2 - Data: 20 81 DD DD 4B E4 11 B CF C5   RSSI: -104 CRC: ERROR
+Dormir: 1
+745706:  3 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -75 CRC: OK
+Dormir: 1
+748338:  4 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -74 CRC: OK
+Dormir: 1
+750970:  0 - Data: A1 0 0 B9 1D 0 B1 C9 FF FF   RSSI: -74 CRC: OK
+Dormir: 1
+753747:  1 - Data: 81 0 0 28 9D 0 D0 50 FF FF   RSSI: -75 CRC: OK
+754560:  1 - Data: A0 0 0 37 2D 0 D1 A7 FF FF   RSSI: -80 CRC: OK
+761047:  1 - Data: 84 0 0 2E D 0 39 1A FF FF   RSSI: -65 CRC: OK
+Dormir: 1
+763869:  2 - Data: E4 0 0 80 5 0 49 36 FF FF   RSSI: -66 CRC: OK
+Dormir: 1
+766688:  3 - Data: 54 0 0 FF 75 0 4E FA FF FF   RSSI: -65 CRC: OK
+Dormir: 1
+769507:  4 - Data: 64 0 0 FF C5 0 7F 7B FF FF   RSSI: -65 CRC: OK
+Dormir: 1
+772326:  0 - Data: 84 0 0 2E D 0 39 1A FF FF   RSSI: -64 CRC: OK
+Dormir: 1
+775145:  1 - Data: E4 0 0 80 5 0 49 36 FF FF   RSSI: -65 CRC: OK
+Dormir: 1
+777964:  2 - Data: 54 0 0 FF 75 0 4E FA FF FF   RSSI: -66 CRC: OK
+Dormir: 1
+780784:  3 - Data: 44 0 0 FF C5 0 4A 73 FF FF   RSSI: -65 CRC: OK
+Dormir: 1
+783603:  4 - Data: 84 0 0 2D FD 0 73 8B FF FF   RSSI: -65 CRC: OK
+Dormir: 1
+786421:  0 - Data: E4 0 0 80 5 0 49 36 FF FF   RSSI: -65 CRC: OK
+Dormir: 1
+789240:  1 - Data: 54 0 0 FF 75 0 4E FA FF FF   RSSI: -65 CRC: OK
+Dormir: 1
+792058:  2 - Data: 94 0 0 0 5 0 37 F0 FF FF   RSSI: -69 CRC: OK
+Dormir: 1
+794876:  3 - Data: 84 0 0 2E D 0 39 1A FF FF   RSSI: -63 CRC: OK
+Dormir: 1
+797696:  4 - Data: E4 0 0 80 5 0 49 36 FF FF   RSSI: -64 CRC: OK
+Dormir: 1
+800515:  0 - Data: 54 0 0 FF 75 0 4E FA FF FF   RSSI: -66 CRC: OK
+Dormir: 1
+803336:  1 - Data: A4 0 0 67 1D 0 8C 5D FF FF   RSSI: -67 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:46:34
+Estacion ID: 4
+Temperatura: 23.10 ºC -- Humedad: 35.00
+Dirección del viento: 9 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:46:34;23.10;35.00;0;9
+
+Appending to file: /Estacion3_18_12_2023.csv
+Message appended
+---------------------- Estacion: 1 -- ID: 0
+Dormir: 1
+Dormir: 1
+Dormir: 1
+Dormir: 1
+
+Tiempo escucha: 90
+Tiempo wifi: 5
+Estacion1 (ID): 0 -- Estacion2 (ID): 1 -- Estacion3 (ID): 4
+[WiFi-event] event: 0
+WiFi interface ready
+[WiFi-event] event: 10
+WiFi access point started
+AP IP address: 192.168.4.1
+[WiFi-event] event: 11
+WiFi access point  stopped
+[WiFi-event] event: 11
+WiFi access point  stopped
+[WiFi-event] event: 10
+WiFi access point started
+[WiFi-event] event: 10
+WiFi access point started
+Servidor iniciado
+18/12/2023     Hora: 16:46:45
+Estacion ID: 0
+Temperatura: 0.00 ºC -- Humedad: 0.00
+Dirección del viento: 0 -- Velocidad: 0
+NO todos los datos leidos
+Save data: 18-12-2023;16:46:45;0.00;0.00;0;0
+
+Appending to file: /Estacion1_18_12_2023.csv
+Message appended
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 816586
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 817045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 817245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 817445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 817645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 817845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 818045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 818245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 818445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 818645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 818845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 819045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 819245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 819445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 819645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 819845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 820045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 820245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 820445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 820645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 820845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 821045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 821245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 821445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 821645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 821845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 822045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 822245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 822445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 822645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 822845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 823045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 823245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 823445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 823645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 823845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 824045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 824245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 824445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 824645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 824845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 825045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 825245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 825445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 825645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 825845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 826045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 826245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 826445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 826645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 826845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 827045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 827245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 827445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 827645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 827845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 828045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 828245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 828445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 828645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 828845
+[WiFi-event] event: 12
+Client connected
+[WiFi-event] event: 12
+Client connected
+[WiFi-event] event: 14
+Assigned IP address to client
+[WiFi-event] event: 14
+Assigned IP address to client
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 829045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 829245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 829445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 829645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 829845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 830045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 830245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 830445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 830645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 830845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 831045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 831245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 831445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 831645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 831845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 832045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 832245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 832445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 832645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 832845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 833045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 833245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 833445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 833645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 833845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 834045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 834245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 834445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 834645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 834845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 835045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 835245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 835445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 835645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 835845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 836045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 836245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 836445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 836645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 836845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 837045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 837245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 837445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 837645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 837845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 838045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 838245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 838445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 838645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 838845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 839045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 839245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 839445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 839645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 839845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 840045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 840245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 840445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 840645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 840845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 841045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 841245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 841445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 841645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 841845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 842045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 842245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 842445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 842645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 842845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 843045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 843245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 843445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 843645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 843845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 844045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 844245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 844445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 844645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 844845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 845045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 845245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 845445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 845645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 845845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 846045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 846245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 846445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 846645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 846845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 847045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 847245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 847445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 847645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 847845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 848045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 848245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 848445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 848645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 848845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 849045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 849245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 849445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 849645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 849845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 850045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 850245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 850445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 850645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 850845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 851045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 851245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 851445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 851645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 851845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 852045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 852245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 852445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 852645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 852845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 853045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 853245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 853445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 853645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 853845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 854045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 854245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 854445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 854645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 854845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 855045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 855245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 855445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 855645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 855845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 856045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 856245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 856445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 856645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 856845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 857045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 857245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 857445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 857645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 857845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 858045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 858245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 858445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 858645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 858845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 859045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 859245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 859445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 859645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 859845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 860045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 860245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 860445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 860645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 860845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 861045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 861245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 861445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 861645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 861845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 862045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 862245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 862445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 862645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 862845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 863045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 863245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 863445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 863645
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 863845
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 864045
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 864245
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 864445
+Tiempo wifi (min): 5--  tiempoINT: 816586   tiempoACT: 864645
+Tiempo wifi (min): 5--  tiempoINT: 864891   tiempoACT: 864845
+[WiFi-event] event: 13
+Client disconnected
+[WiFi-event] event: 13
+Client disconnected
+[WiFi-event] event: 11
+WiFi access point  stopped
+[WiFi-event] event: 11
+WiFi access point  stopped
+Wifi Apagada 
+---------------------- Estacion: 1 -- ID: 0
+870007:  1 - Data: 80 0 0 20 D 0 24 BA FF FF   RSSI: -81 CRC: OK
+Dormir: 1
+872579:  2 - Data: E0 0 0 80 5 0 4F 97 FF FF   RSSI: -87 CRC: OK
+Dormir: 1
+875148:  3 - Data: 50 0 0 FF 75 0 48 5B FF FF   RSSI: -86 CRC: OK
+Dormir: 1
+877717:  4 - Data: 60 0 0 1 45 0 9A 11 FF FF   RSSI: -84 CRC: OK
+Dormir: 1
+880300:  0 - Data: D0 8C FB 70 C7 57 E7 3A C3 4F   RSSI: -109 CRC: ERROR
+Dormir: 1
+882855:  1 - Data: E0 0 0 80 5 0 4F 97 FF FF   RSSI: -85 CRC: OK
+Dormir: 1
+885425:  2 - Data: 50 0 0 FF 75 0 48 5B FF FF   RSSI: -75 CRC: OK
+Dormir: 1
+887995:  3 - Data: 40 0 0 0 5 0 95 E5 FF FF   RSSI: -78 CRC: OK
+Dormir: 1
+890565:  4 - Data: 80 0 0 20 D 0 24 BA FF FF   RSSI: -76 CRC: OK
+Dormir: 1
+893134:  0 - Data: E0 0 0 80 5 0 4F 97 FF FF   RSSI: -77 CRC: OK
+Dormir: 1
+895704:  1 - Data: 50 0 0 FF 75 0 48 5B FF FF   RSSI: -77 CRC: OK
+Dormir: 1
+898273:  2 - Data: 90 0 0 0 5 0 31 51 FF FF   RSSI: -76 CRC: OK
+Dormir: 1
+900841:  3 - Data: 80 0 0 20 D 0 24 BA FF FF   RSSI: -77 CRC: OK
+Dormir: 1
+903409:  4 - Data: E0 0 0 80 5 0 4F 97 FF FF   RSSI: -77 CRC: OK
+Dormir: 1
+905979:  0 - Data: 50 0 0 FF 75 0 48 5B FF FF   RSSI: -77 CRC: OK
+Dormir: 1
+908548:  1 - Data: A0 0 0 37 2D 0 D1 A7 FF FF   RSSI: -76 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:48:19
+Estacion ID: 0
+Temperatura: 10.67 ºC -- Humedad: 56.00
+Dirección del viento: 9 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:48:19;10.67;56.00;0;9
+
+Appending to file: /Estacion1_18_12_2023.csv
+Message appended
+---------------------- Estacion: 2 -- ID: 1
+911142:  2 - Data: 0 3E 3E DB 3F AF B7 74 55 E6   RSSI: -107 CRC: ERROR
+Dormir: 1
+913685:  3 - Data: E0 0 0 80 5 0 4F 97 FF FF   RSSI: -77 CRC: OK
+Dormir: 1
+916255:  4 - Data: 50 0 0 FF 75 0 48 5B FF FF   RSSI: -77 CRC: OK
+Dormir: 1
+918823:  0 - Data: A0 0 0 37 2D 0 D1 A7 FF FF   RSSI: -77 CRC: OK
+Dormir: 1
+921391:  1 - Data: 80 0 0 20 D 0 24 BA FF FF   RSSI: -77 CRC: OK
+924495:  1 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+927127:  2 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+929758:  3 - Data: 41 0 0 FF C5 0 9 72 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+932388:  4 - Data: 81 0 0 28 8D 0 D3 23 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+935020:  0 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+937651:  1 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+940283:  2 - Data: 91 0 0 0 5 0 74 F1 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+942915:  3 - Data: 81 0 0 28 8D 0 D3 23 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+945546:  4 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+948177:  0 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+950807:  1 - Data: A1 0 0 BF 1D 0 3 69 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:49:1
+Estacion ID: 1
+Temperatura: 18.22 ºC -- Humedad: 44.00
+Dirección del viento: 9 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:49:1;18.22;44.00;0;9
+
+Appending to file: /Estacion2_18_12_2023.csv
+Message appended
+---------------------- Estacion: 3 -- ID: 4
+953481:  2 - Data: FD BD AE 2 BA C6 80 30 7D 8F   RSSI: -108 CRC: ERROR
+Dormir: 1
+956070:  3 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+958700:  4 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+961332:  0 - Data: A1 0 0 BF 1D 0 3 69 FF FF   RSSI: -71 CRC: OK
+Dormir: 1
+964112:  1 - Data: 81 0 0 28 8D 0 D3 23 FF FF   RSSI: -71 CRC: OK
+972349:  1 - Data: A4 0 0 6A 1D 0 CE C FF FF   RSSI: -64 CRC: OK
+Dormir: 1
+975170:  2 - Data: 84 0 0 2D FD 0 73 8B FF FF   RSSI: -65 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:49:25
+Estacion ID: 4
+Temperatura: 23.06 ºC -- Humedad: 36.00
+Dirección del viento: 9 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:49:25;23.06;36.00;0;9
+
+Appending to file: /Estacion3_18_12_2023.csv
+Message appended
+---------------------- Estacion: 1 -- ID: 0
+Dormir: 1
+Dormir: 1
+Dormir: 1
+Dormir: 1
+988222:  2 - Data: BF 5C C0 41 46 F7 2F 10 D0 7E   RSSI: -102 CRC: ERROR
+989265:  2 - Data: E4 0 0 80 5 0 49 36 FF FF   RSSI: -64 CRC: OK
+992879:  2 - Data: 91 0 0 0 5 0 74 F1 FF FF   RSSI: -70 CRC: OK
+1000963:  2 - Data: 90 0 0 0 5 0 31 51 FF FF   RSSI: -76 CRC: OK
+Dormir: 1
+1003532:  3 - Data: 80 0 0 20 D 0 24 BA FF FF   RSSI: -77 CRC: OK
+Dormir: 1
+1006101:  4 - Data: E0 0 0 80 5 0 4F 97 FF FF   RSSI: -76 CRC: OK
+Dormir: 1
+1008670:  0 - Data: 50 0 0 FF 75 0 48 5B FF FF   RSSI: -77 CRC: OK
+Dormir: 1
+1011238:  1 - Data: A0 0 0 37 2D 0 D1 A7 FF FF   RSSI: -76 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:50:1
+Estacion ID: 0
+Temperatura: 10.67 ºC -- Humedad: 56.00
+Dirección del viento: 9 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:50:1;10.67;56.00;0;9
+
+Appending to file: /Estacion1_18_12_2023.csv
+Message appended
+---------------------- Estacion: 2 -- ID: 1
+1013831:  2 - Data: E0 9E 10 5F 9E A3 7A 88 21 FB   RSSI: -105 CRC: ERROR
+Dormir: 1
+1016375:  3 - Data: E0 0 0 80 5 0 4F 97 FF FF   RSSI: -76 CRC: OK
+Dormir: 1
+1018942:  4 - Data: 50 0 0 FF 75 0 48 5B FF FF   RSSI: -76 CRC: OK
+Dormir: 1
+1021511:  0 - Data: A0 0 0 37 2D 0 D1 A7 FF FF   RSSI: -77 CRC: OK
+Dormir: 1
+1024080:  1 - Data: 80 0 0 20 D 0 24 BA FF FF   RSSI: -77 CRC: OK
+1028695:  1 - Data: A4 0 0 69 1D 0 97 5C FF FF   RSSI: -64 CRC: OK
+1029684:  1 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+1031691:  2 - Data: 84 0 0 2D FD 0 73 8B FF FF   RSSI: -65 CRC: OK
+1032316:  2 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+1034334:  3 - Data: E4 0 0 80 5 0 49 36 FF FF   RSSI: -65 CRC: OK
+1034948:  3 - Data: 41 0 0 FF C5 0 9 72 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+1037152:  4 - Data: 54 0 0 FF 75 0 4E FA FF FF   RSSI: -64 CRC: OK
+1037579:  4 - Data: 81 0 0 28 8D 0 D3 23 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+1039971:  0 - Data: A4 0 0 69 1D 0 97 5C FF FF   RSSI: -64 CRC: OK
+1040211:  0 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+1042789:  1 - Data: 84 0 0 2D ED 0 70 F8 FF FF   RSSI: -64 CRC: OK
+1042840:  1 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+1045472:  2 - Data: 91 0 0 0 5 0 74 F1 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+1048104:  3 - Data: 81 0 0 28 7D 0 C0 E2 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+1050736:  4 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+1053367:  0 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -71 CRC: OK
+Dormir: 1
+1055997:  1 - Data: A1 0 0 BA 1D 0 E8 99 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:50:46
+Estacion ID: 1
+Temperatura: 18.19 ºC -- Humedad: 44.00
+Dirección del viento: 9 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:50:46;18.19;44.00;0;9
+
+Appending to file: /Estacion2_18_12_2023.csv
+Message appended
+---------------------- Estacion: 3 -- ID: 4
+1058638:  2 - Data: 5E EA CB 3C 91 DD 78 AB 7C F0   RSSI: -106 CRC: ERROR
+Dormir: 1
+1061259:  3 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+1063891:  4 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+1066522:  0 - Data: A1 0 0 BA 1D 0 E8 99 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+1069302:  1 - Data: 81 0 0 28 8D 0 D3 23 FF FF   RSSI: -70 CRC: OK
+1070978:  1 - Data: 54 0 0 FF 75 0 4E FA FF FF   RSSI: -65 CRC: OK
+Dormir: 1
+1072985:  2 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -70 CRC: OK
+1073798:  2 - Data: 94 0 0 0 5 0 37 F0 FF FF   RSSI: -64 CRC: OK
+Dormir: 1
+1075805:  3 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -70 CRC: OK
+1076617:  3 - Data: 84 0 0 2D FD 0 73 8B FF FF   RSSI: -64 CRC: OK
+Dormir: 1
+1078624:  4 - Data: 61 0 0 FF C5 0 3C 7A FF FF   RSSI: -70 CRC: OK
+1079437:  4 - Data: E4 0 0 80 5 0 49 36 FF FF   RSSI: -65 CRC: OK
+Dormir: 1
+1081444:  0 - Data: 81 0 0 28 8D 0 D3 23 FF FF   RSSI: -71 CRC: OK
+1082256:  0 - Data: 54 0 0 FF 75 0 4E FA FF FF   RSSI: -64 CRC: OK
+Dormir: 1
+1084264:  1 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -69 CRC: OK
+1085075:  1 - Data: A4 0 0 68 1D 0 A0 6C FF FF   RSSI: -65 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:51:15
+Estacion ID: 4
+Temperatura: 23.06 ºC -- Humedad: 36.00
+Dirección del viento: 9 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:51:15;23.06;36.00;0;9
+
+Appending to file: /Estacion3_18_12_2023.csv
+Message appended
+---------------------- Estacion: 1 -- ID: 0
+Dormir: 1
+Dormir: 1
+Dormir: 1
+1094817:  0 - Data: 7F C2 CD 9D 14 F9 30 54 9 BF   RSSI: -94 CRC: ERROR
+Dormir: 1
+1097380:  1 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -70 CRC: OK
+1099171:  1 - Data: 84 0 0 2D ED 0 70 F8 FF FF   RSSI: -64 CRC: OK
+1101119:  1 - Data: 50 0 0 FF 75 0 48 5B FF FF   RSSI: -77 CRC: OK
+Dormir: 1
+1103126:  2 - Data: E4 0 0 80 5 0 49 36 FF FF   RSSI: -64 CRC: OK
+1103688:  2 - Data: 90 0 0 0 5 0 31 51 FF FF   RSSI: -76 CRC: OK
+Dormir: 1
+1105695:  3 - Data: 54 0 0 FF 75 0 4E FA FF FF   RSSI: -64 CRC: OK
+1106257:  3 - Data: 80 0 0 20 D 0 24 BA FF FF   RSSI: -76 CRC: OK
+Dormir: 1
+1108264:  4 - Data: 64 0 0 FF C5 0 7F 7B FF FF   RSSI: -65 CRC: OK
+1108825:  4 - Data: E0 0 0 80 5 0 4F 97 FF FF   RSSI: -76 CRC: OK
+Dormir: 1
+1110833:  0 - Data: 84 0 0 2D FD 0 73 8B FF FF   RSSI: -64 CRC: OK
+1111394:  0 - Data: 50 0 0 FF 75 0 48 5B FF FF   RSSI: -76 CRC: OK
+Dormir: 1
+1113401:  1 - Data: E4 0 0 80 5 0 49 36 FF FF   RSSI: -65 CRC: OK
+1113961:  1 - Data: A0 0 0 38 2D 0 FD 96 FF FF   RSSI: -76 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:51:44
+Estacion ID: 0
+Temperatura: 10.67 ºC -- Humedad: 56.00
+Dirección del viento: 9 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:51:44;10.67;56.00;0;9
+
+Appending to file: /Estacion1_18_12_2023.csv
+Message appended
+---------------------- Estacion: 2 -- ID: 1
+1116092:  2 - Data: EE 79 9F E7 57 67 B5 D1 D1 9   RSSI: -94 CRC: ERROR
+1116528:  2 - Data: 80 0 0 20 D 0 24 BA FF FF   RSSI: -76 CRC: OK
+Dormir: 1
+1118900:  3 - Data: 44 0 0 FF C5 0 4A 73 FF FF   RSSI: -65 CRC: OK
+1119097:  3 - Data: E0 0 0 80 5 0 4F 97 FF FF   RSSI: -76 CRC: OK
+Dormir: 1
+1121664:  4 - Data: 50 0 0 FF 75 0 48 5B FF FF   RSSI: -76 CRC: OK
+1121716:  4 - Data: 84 0 0 2D FD 0 73 8B FF FF   RSSI: -64 CRC: OK
+Dormir: 1
+1124233:  0 - Data: A0 0 0 38 2D 0 FD 96 FF FF   RSSI: -76 CRC: OK
+Dormir: 1
+1126803:  1 - Data: 80 0 0 20 D 0 24 BA FF FF   RSSI: -76 CRC: OK
+1127355:  1 - Data: 54 0 0 FF 75 0 4E FA FF FF   RSSI: -65 CRC: OK
+1134906:  1 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+1137539:  2 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+1140171:  3 - Data: 41 0 0 FF C5 0 9 72 FF FF   RSSI: -69 CRC: OK
+Dormir: 1
+1142802:  4 - Data: 81 0 0 28 7D 0 C0 E2 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+1145433:  0 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+1148064:  1 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -73 CRC: OK
+Dormir: 1
+1150695:  2 - Data: 91 0 0 0 5 0 74 F1 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+1153327:  3 - Data: 81 0 0 28 8D 0 D3 23 FF FF   RSSI: -72 CRC: OK
+Dormir: 1
+1155959:  4 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+1158591:  0 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -72 CRC: OK
+Dormir: 1
+1161222:  1 - Data: A1 0 0 BD 1D 0 6D 9 FF FF   RSSI: -72 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:52:31
+Estacion ID: 1
+Temperatura: 18.19 ºC -- Humedad: 44.00
+Dirección del viento: 9 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:52:31;18.19;44.00;0;9
+
+Appending to file: /Estacion2_18_12_2023.csv
+Message appended
+---------------------- Estacion: 3 -- ID: 4
+1163864:  2 - Data: 1D 44 40 B2 A BA 42 16 13 56   RSSI: -106 CRC: ERROR
+Dormir: 1
+1166485:  3 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -72 CRC: OK
+Dormir: 1
+1169116:  4 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -72 CRC: OK
+Dormir: 1
+1171749:  0 - Data: A1 0 0 BD 1D 0 6D 9 FF FF   RSSI: -72 CRC: OK
+Dormir: 1
+1174527:  1 - Data: 81 0 0 28 7D 0 C0 E2 FF FF   RSSI: -72 CRC: OK
+1178151:  1 - Data: 80 0 0 20 D 0 24 BA FF FF   RSSI: -75 CRC: OK
+1183704:  1 - Data: 54 0 0 FF 75 0 4E FA FF FF   RSSI: -65 CRC: OK
+Dormir: 1
+1186526:  2 - Data: 94 0 0 0 5 0 37 F0 FF FF   RSSI: -64 CRC: OK
+Dormir: 1
+1189345:  3 - Data: 84 0 0 2D ED 0 70 F8 FF FF   RSSI: -64 CRC: OK
+Dormir: 1
+1192163:  4 - Data: E4 0 0 80 5 0 49 36 FF FF   RSSI: -65 CRC: OK
+Dormir: 1
+1194981:  0 - Data: 54 0 0 FF 75 0 4E FA FF FF   RSSI: -66 CRC: OK
+Dormir: 1
+1197800:  1 - Data: A4 0 0 67 1D 0 8C 5D FF FF   RSSI: -65 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:53:8
+Estacion ID: 4
+Temperatura: 23.00 ºC -- Humedad: 35.00
+Dirección del viento: 9 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:53:8;23.00;35.00;0;9
+
+Appending to file: /Estacion3_18_12_2023.csv
+Message appended
+---------------------- Estacion: 1 -- ID: 0
+Dormir: 1
+Dormir: 1
+Dormir: 1
+Dormir: 1
+1211948:  1 - Data: E5 A5 CC E7 67 A7 3 32 BC CF   RSSI: -97 CRC: ERROR
+1213820:  1 - Data: A1 0 0 C3 1D 0 AE 0 FF FF   RSSI: -71 CRC: OK
+1216655:  1 - Data: A0 0 0 3D 2D 0 16 66 FF FF   RSSI: -80 CRC: OK
+Dormir: 1
+1219225:  2 - Data: 80 0 0 20 D 0 24 BA FF FF   RSSI: -84 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:53:29
+Estacion ID: 0
+Temperatura: 10.67 ºC -- Humedad: 57.00
+Dirección del viento: 9 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:53:29;10.67;57.00;0;9
+
+Appending to file: /Estacion1_18_12_2023.csv
+Message appended
+---------------------- Estacion: 2 -- ID: 1
+1221853:  3 - Data: B7 47 A0 8 9E 35 C0 B1 4D F4   RSSI: -115 CRC: ERROR
+Dormir: 1
+1224362:  4 - Data: 50 0 0 FF 75 0 48 5B FF FF   RSSI: -86 CRC: OK
+Dormir: 1
+1226931:  0 - Data: A0 0 0 3D 2D 0 16 66 FF FF   RSSI: -80 CRC: OK
+Dormir: 1
+1229500:  1 - Data: 80 0 0 20 D 0 24 BA FF FF   RSSI: -79 CRC: OK
+Dormir: 1
+1232068:  2 - Data: E0 0 0 80 5 0 4F 97 FF FF   RSSI: -78 CRC: OK
+1242733:  2 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+1245367:  3 - Data: 41 0 0 FF C5 0 9 72 FF FF   RSSI: -72 CRC: OK
+Dormir: 1
+1247998:  4 - Data: 81 0 0 28 7D 0 C0 E2 FF FF   RSSI: -71 CRC: OK
+Dormir: 1
+1250630:  0 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+1253261:  1 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -71 CRC: OK
+Dormir: 1
+1255892:  2 - Data: 91 0 0 0 5 0 74 F1 FF FF   RSSI: -71 CRC: OK
+Dormir: 1
+1258522:  3 - Data: 81 0 0 28 7D 0 C0 E2 FF FF   RSSI: -71 CRC: OK
+Dormir: 1
+1261153:  4 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -71 CRC: OK
+Dormir: 1
+1263783:  0 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -72 CRC: OK
+Dormir: 1
+1266416:  1 - Data: A1 0 0 C1 1D 0 C0 60 FF FF   RSSI: -72 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:54:16
+Estacion ID: 1
+Temperatura: 18.17 ºC -- Humedad: 44.00
+Dirección del viento: 9 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:54:16;18.17;44.00;0;9
+
+Appending to file: /Estacion2_18_12_2023.csv
+Message appended
+---------------------- Estacion: 3 -- ID: 4
+1269053:  2 - Data: 7 7D 7 D BF 89 33 4C A8 A9   RSSI: -110 CRC: ERROR
+Dormir: 1
+1271677:  3 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+1274309:  4 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+1276941:  0 - Data: A1 0 0 C1 1D 0 C0 60 FF FF   RSSI: -71 CRC: OK
+Dormir: 1
+1279720:  1 - Data: 81 0 0 28 7D 0 C0 E2 FF FF   RSSI: -71 CRC: OK
+1280845:  1 - Data: 80 0 2E 20 9 0 7D 6A FF FF   RSSI: -76 CRC: OK
+1282336:  1 - Data: E4 0 0 80 5 0 49 36 FF FF   RSSI: -66 CRC: OK
+Dormir: 1
+1284343:  2 - Data: E0 0 2E 80 1 0 16 47 FF FF   RSSI: -78 CRC: OK
+1285155:  2 - Data: 54 0 0 FF 75 0 4E FA FF FF   RSSI: -66 CRC: OK
+Dormir: 1
+1287162:  3 - Data: 50 0 2E FF 71 0 11 8B FF FF   RSSI: -83 CRC: OK
+1287975:  3 - Data: 44 0 0 FF C5 0 4A 73 FF FF   RSSI: -65 CRC: OK
+Dormir: 1
+1289982:  4 - Data: 60 0 2E 0 C1 0 EF 69 FF FF   RSSI: -80 CRC: OK
+1290794:  4 - Data: 84 0 0 2D ED 0 70 F8 FF FF   RSSI: -65 CRC: OK
+Dormir: 1
+1292801:  0 - Data: 80 0 2E 20 9 0 7D 6A FF FF   RSSI: -80 CRC: OK
+1293613:  0 - Data: E4 0 0 80 5 0 49 36 FF FF   RSSI: -65 CRC: OK
+Dormir: 1
+1295621:  1 - Data: E0 0 2A 80 3 0 BA D4 FF FF   RSSI: -76 CRC: OK
+1296432:  1 - Data: 54 0 0 FF 75 0 4E FA FF FF   RSSI: -65 CRC: OK
+Dormir: 1
+1299253:  2 - Data: 94 0 0 0 5 0 37 F0 FF FF   RSSI: -65 CRC: OK
+Dormir: 1
+1302072:  3 - Data: 84 0 0 2D ED 0 70 F8 FF FF   RSSI: -65 CRC: OK
+Dormir: 1
+1304893:  4 - Data: E4 0 0 80 5 0 49 36 FF FF   RSSI: -65 CRC: OK
+Dormir: 1
+1307712:  0 - Data: 54 0 0 FF 75 0 4E FA FF FF   RSSI: -65 CRC: OK
+Dormir: 1
+1310532:  1 - Data: A4 0 0 64 1D 0 D5 D FF FF   RSSI: -65 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:55:0
+Estacion ID: 4
+Temperatura: 23.00 ºC -- Humedad: 35.00
+Dirección del viento: 9 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:55:0;23.00;35.00;0;9
+
+Appending to file: /Estacion3_18_12_2023.csv
+Message appended
+---------------------- Estacion: 1 -- ID: 0
+Dormir: 1
+Dormir: 1
+Dormir: 1
+Dormir: 1
+1324641:  1 - Data: 43 81 F5 3F 92 B1 2 2B 5D A7   RSSI: -95 CRC: ERROR
+1332175:  1 - Data: 81 0 0 28 6D 0 C3 91 FF FF   RSSI: -69 CRC: OK
+1332197:  1 - Data: 80 0 9 1F FB 0 87 3E FF FF   RSSI: -78 CRC: OK
+Dormir: 1
+1334808:  2 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -69 CRC: OK
+Dormir: 1
+1337365:  3 - Data: 75 B0 E9 F AC BF 62 81 B9 C7   RSSI: -111 CRC: ERROR
+Dormir: 1
+1339915:  4 - Data: 2A 6C D2 9E 1A 3C E3 79 3C 60   RSSI: -110 CRC: ERROR
+Dormir: 1
+1342477:  0 - Data: 80 0 FF 1F F9 0 59 88 FF FF   RSSI: -79 CRC: OK
+Dormir: 1
+Dormir: 1
+Dormir: 1
+1350182:  3 - Data: 40 0 48 0 1 0 B2 7E FF FF   RSSI: -84 CRC: OK
+Dormir: 1
+Dormir: 1
+1355339:  0 - Data: 4A 24 53 41 A8 10 31 80 B5 FA   RSSI: -109 CRC: ERROR
+Dormir: 1
+1357889:  1 - Data: 50 0 47 FF 73 0 DD 4C FF FF   RSSI: -84 CRC: OK
+Dormir: 1
+1360458:  2 - Data: 90 0 3F 1 3 2 74 82 FF FF   RSSI: -86 CRC: OK
+Dormir: 1
+1363026:  3 - Data: 80 0 36 1F F9 0 19 5B FF FF   RSSI: -85 CRC: OK
+Dormir: 1
+1365604:  4 - Data: E5 81 BC A 76 4A 34 5 74 54   RSSI: -111 CRC: ERROR
+Dormir: 1
+Dormir: 1
+1370732:  1 - Data: A0 0 30 3C 29 0 C1 7B FF FF   RSSI: -87 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:56:0
+Estacion ID: 0
+Temperatura: 10.61 ºC -- Humedad: 57.00
+Dirección del viento: 117 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:56:0;10.61;57.00;0;117
+
+Appending to file: /Estacion1_18_12_2023.csv
+Message appended
+---------------------- Estacion: 2 -- ID: 1
+1373347:  2 - Data: 0 78 E 98 C3 D8 BC E0 84 E   RSSI: -105 CRC: ERROR
+Dormir: 1
+1375867:  3 - Data: E0 0 33 80 1 0 34 66 FF FF   RSSI: -80 CRC: OK
+Dormir: 1
+1378435:  4 - Data: 50 0 36 FF 73 0 E9 8D FF FF   RSSI: -78 CRC: OK
+Dormir: 1
+1381003:  0 - Data: A0 0 36 3C 2B 0 80 80 FF FF   RSSI: -78 CRC: OK
+Dormir: 1
+1383573:  1 - Data: 80 0 3B 1F F9 0 20 DD FF FF   RSSI: -78 CRC: OK
+1384800:  1 - Data: 81 0 0 28 6D 0 C3 91 FF FF   RSSI: -69 CRC: OK
+Dormir: 1
+1386808:  2 - Data: E0 1 EF 80 3 0 1F 64 FF FF   RSSI: -77 CRC: OK
+1387433:  2 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+1389441:  3 - Data: 50 0 EF FF 71 0 D4 9B FF FF   RSSI: -78 CRC: OK
+1390064:  3 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -69 CRC: OK
+Dormir: 1
+1392071:  4 - Data: 60 0 EF 1 1 0 B 1D FF FF   RSSI: -78 CRC: OK
+1392695:  4 - Data: 61 0 0 FF C5 0 3C 7A FF FF   RSSI: -78 CRC: OK
+Dormir: 1
+1394702:  0 - Data: 80 0 EF 1F F9 0 42 2F FF FF   RSSI: -76 CRC: OK
+1395327:  0 - Data: 81 0 0 28 6D 0 C3 91 FF FF   RSSI: -70 CRC: OK
+Dormir: 1
+1397334:  1 - Data: E0 0 EF 80 1 0 D3 57 FF FF   RSSI: -76 CRC: OK
+1397959:  1 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -69 CRC: OK
+Dormir: 1
+1399966:  2 - Data: 50 0 EA FF 73 0 E BC FF FF   RSSI: -75 CRC: OK
+1400591:  2 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -69 CRC: OK
+Dormir: 1
+1402599:  3 - Data: 44 0 0 FF C5 0 4A 73 FF FF   RSSI: -65 CRC: OK
+1403222:  3 - Data: 41 0 0 FF C5 0 9 72 FF FF   RSSI: -69 CRC: OK
+Dormir: 1
+1405229:  4 - Data: 84 0 0 2D DD 0 75 6D FF FF   RSSI: -65 CRC: OK
+1405854:  4 - Data: 81 0 0 28 6D 0 C3 91 FF FF   RSSI: -68 CRC: OK
+Dormir: 1
+1407862:  0 - Data: E4 0 0 80 5 0 49 36 FF FF   RSSI: -65 CRC: OK
+1408486:  0 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -69 CRC: OK
+Dormir: 1
+1410493:  1 - Data: 54 0 0 FF 75 0 4E FA FF FF   RSSI: -65 CRC: OK
+1411118:  1 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -69 CRC: OK
+Dormir: 1
+1413125:  2 - Data: 90 0 D4 1 3 F 3F DA FF FF   RSSI: -78 CRC: OK
+1413750:  2 - Data: 91 0 0 0 5 0 74 F1 FF FF   RSSI: -69 CRC: OK
+Dormir: 1
+1415757:  3 - Data: 80 0 D3 1F FB 0 47 96 FF FF   RSSI: -79 CRC: OK
+1416382:  3 - Data: 81 0 0 28 6D 0 C3 91 FF FF   RSSI: -71 CRC: OK
+Dormir: 1
+1418389:  4 - Data: E4 0 0 80 5 0 49 36 FF FF   RSSI: -65 CRC: OK
+1419013:  4 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -72 CRC: OK
+Dormir: 1
+1421020:  0 - Data: 54 0 0 FF 75 0 4E FA FF FF   RSSI: -67 CRC: OK
+1421645:  0 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -74 CRC: OK
+Dormir: 1
+1423652:  1 - Data: A4 0 0 5C 1D 0 B9 9 FF FF   RSSI: -63 CRC: OK
+1424278:  1 - Data: A1 0 0 BF 1D 0 3 69 FF FF   RSSI: -78 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:56:54
+Estacion ID: 1
+Temperatura: 18.11 ºC -- Humedad: 44.00
+Dirección del viento: 9 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:56:54;18.11;44.00;0;9
+
+Appending to file: /Estacion2_18_12_2023.csv
+Message appended
+---------------------- Estacion: 3 -- ID: 4
+1426917:  2 - Data: 88 71 CA FE 38 DF A2 14 F7 5C   RSSI: -106 CRC: ERROR
+Dormir: 1
+1429143:  3 - Data: E0 0 D3 80 1 0 B0 8C FF FF   RSSI: -86 CRC: OK
+1429541:  3 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -73 CRC: OK
+Dormir: 1
+1431956:  4 - Data: 54 0 0 FF 75 0 4E FA FF FF   RSSI: -66 CRC: OK
+Dormir: 1
+1433963:  0 - Data: A0 0 D3 3D 29 0 E9 7D FF FF   RSSI: -82 CRC: OK
+1434563:  0 - Data: A4 0 0 5C 1D 0 B9 9 FF FF   RSSI: -65 CRC: OK
+Dormir: 1
+1436571:  1 - Data: 80 0 D3 1F F9 0 21 F4 FF FF   RSSI: -80 CRC: OK
+1437382:  1 - Data: 84 0 0 2D DD 0 75 6D FF FF   RSSI: -65 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:57:7
+Estacion ID: 4
+Temperatura: 22.94 ºC -- Humedad: 34.00
+Dirección del viento: 9 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:57:7;22.94;34.00;0;9
+
+Appending to file: /Estacion3_18_12_2023.csv
+Message appended
+---------------------- Estacion: 1 -- ID: 0
+Dormir: 1
+1441998:  3 - Data: 64 2F A8 D6 3F 6B 7F D9 FC E5   RSSI: -105 CRC: ERROR
+Dormir: 1
+1444561:  4 - Data: 60 0 D3 1 1 0 68 C6 FF FF   RSSI: -85 CRC: OK
+Dormir: 1
+1446568:  0 - Data: 80 0 D3 1F F9 0 21 F4 FF FF   RSSI: -85 CRC: OK
+Dormir: 1
+1448576:  1 - Data: E0 0 D3 80 1 0 B0 8C FF FF   RSSI: -84 CRC: OK
+Dormir: 1
+1450583:  2 - Data: 50 0 D3 FF 71 0 B7 40 FF FF   RSSI: -81 CRC: OK
+Dormir: 1
+Dormir: 1
+Dormir: 1
+Dormir: 1
+Dormir: 1
+1466352:  2 - Data: 91 0 0 0 5 0 74 F1 FF FF   RSSI: -73 CRC: OK
+1468368:  2 - Data: 94 0 0 0 5 0 37 F0 FF FF   RSSI: -64 CRC: OK
+1476000:  2 - Data: 80 0 D3 1F F9 0 21 F4 FF FF   RSSI: -86 CRC: OK
+Dormir: 1
+1478571:  3 - Data: E0 0 D3 80 1 0 B0 8C FF FF   RSSI: -74 CRC: OK
+Dormir: 1
+1481139:  4 - Data: 50 0 D3 FF 71 0 B7 40 FF FF   RSSI: -76 CRC: OK
+Dormir: 1
+1483707:  0 - Data: A0 0 D1 3E 29 0 5D 45 FF FF   RSSI: -78 CRC: OK
+Dormir: 1
+18/12/2023     Hora: 16:57:53
+Estacion ID: 0
+Temperatura: 10.61 ºC -- Humedad: 57.00
+Dirección del viento: 290 -- Velocidad: 0
+Todos los datos leidos
+Save data: 18-12-2023;16:57:53;10.61;57.00;0;290
+
+Appending to file: /Estacion1_18_12_2023.csv
+Message appended
+---------------------- Estacion: 2 -- ID: 1
+1486310:  1 - Data: 37 3A DC A8 1B FA 35 31 16 BD   RSSI: -106 CRC: ERROR
+Dormir: 1
+1488845:  2 - Data: E0 0 D0 80 3 0 4D 32 FF FF   RSSI: -76 CRC: OK
+Dormir: 1
+1491414:  3 - Data: 50 0 D0 FF 73 0 4A FE FF FF   RSSI: -77 CRC: OK
+Dormir: 1
+1493985:  4 - Data: 60 0 D0 1 3 0 95 78 FF FF   RSSI: -77 CRC: OK
+Dormir: 1
+1496555:  0 - Data: 80 0 D0 1F FB 0 DC 4A FF FF   RSSI: -78 CRC: OK
+1500532:  0 - Data: 81 0 0 28 5D 0 C6 4 FF FF   RSSI: -82 CRC: OK
+Dormir: 1
+1503165:  1 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -79 CRC: OK
+Dormir: 1
+1505797:  2 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -80 CRC: OK
+Dormir: 1
+1508428:  3 - Data: 41 0 0 FF C5 0 9 72 FF FF   RSSI: -79 CRC: OK
+Dormir: 1
+1511061:  4 - Data: 81 0 0 28 5D 0 C6 4 FF FF   RSSI: -72 CRC: OK
+Dormir: 1
+1513692:  0 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -82 CRC: OK
+Dormir: 1
+1516324:  1 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -85 CRC: OK
+Dormir: 1
+1518956:  2 - Data: 91 0 0 0 5 0 74 F1 FF FF   RSSI: -76 CRC: OK
+Dormir: 1
+1521588:  3 - Data: 81 0 0 28 4D 0 C5 77 FF FF   RSSI: -75 CRC: OK
+Dormir: 1
+1524219:  4 - Data: E1 0 0 80 5 0 A 37 FF FF   RSSI: -74 CRC: OK
+Dormir: 1
+1526850:  0 - Data: 51 0 0 FF 75 0 D FB FF FF   RSSI: -71 CRC: OK
+Dormir: 1
+1529480:  1 - Data: A1 0 0 BA 1D 0 E8 99 FF FF   RSSI: -71 CRC: OK
+Dormir: 1
