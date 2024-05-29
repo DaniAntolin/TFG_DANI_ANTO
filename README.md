@@ -30,15 +30,14 @@ IRQ -> Pin 27
 PinBotón -> Pin 12  
 PinBotónTierra -> Pin 13  
 ### Adafruit Radio FeatherWing  
-## Desarrollo.  
+## Desarrollo. 
 Para el desarrollo de este proyecto se divirá en tres partes que de forma independiente se podrá testear las diferentes fases del proyecto: [Recibir](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/RECIBIR), [Guardar](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/GUARDAR) y [Enviar](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/ENVIAR).  
-Estas tres fases serán librerías en un archivo .h/cpp que posteriormente se harán [pruebas](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/PRUEBAS).
+Estas tres fases serán librerías en un archivo .h/cpp que posteriormente se harán [pruebas](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/PRUEBAS) para testear de forma independiente el [boton interruptor]().
 Finalmente, serán junatadas en un archivo   *.ino* llamado [DEFINITIVO.ino](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/DEFINITIVO) .  
-Tanto las pruebas realizadas como las conclusiones seran archivados en el archivo llamado [ESTADISTICAS](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/ESTADISTICAS), donde:  
-*- se medirá la potencia para saber el consumo en función del tiempo con y sin Placa Adafruit Adalogger FeatherWing, tambien radio + SD, radio + SD + WIFI.*  
-*- se medirá ... para los diferentes canales que tiene el transmisor de radio Davis.*  
-*- se hará testeos del wifi para identificar posibles errores...*  
-*- se hara un testeo de 3 dias para ver que no haya problemas con la transmision i2c que comparte.*  
+En el transcurso del TFG se recopilarán datos en [ESTADISTICAS](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/ESTADISTICAS), donde:  
+*- se medirá la potencia para saber el consumo en función del tiempo con y sin Placa Adafruit Adalogger FeatherWing, tambien radio + SD, radio + SD + WIFI.* [Aquí](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/ESTADISTICAS/Consumo)  
+*- se medirá la recepción para los diferentes canales que tiene el transmisor de radio Davis.* [Aquí](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/ESTADISTICAS/estadisticas_radio)   
+*- se harán pruebas previas con todo el sistema montado correctamente para ver que no hay problemas ,obtendiendo datos de los mismos en formato xlsx, donde se verificará con la información recopilada de Putty .* [Aquí](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/ESTADISTICAS/Datos%20almacenados)  
 
 ### Recibir.
 [**CÓDIGO y DIAGRAMA DE FLUJO**](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/RECIBIR)  
@@ -47,7 +46,7 @@ Esta fase tiene como objetivo recibir paquetes de las distintas estaciones con l
 El Sensor Transmitter Davis tiene en su interior 4 switches que dependiendo si estan en **ON** u **OFF** representan un canal u otro. Vease la siguiente tabla con información mas detallada  
 ![Image text](https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/FOTOS/tablaIDsRadio.JPG)  
 Dependiendo del canal escogido transmitirá mas o menos lento los paquetes segun la siguiente equación:  
-**(41 + ID)/16 [segundos]**  
+**(40 + ID)/16 [segundos]**  
 
 **- PROTOCOLO DE COMUNICACION RADIO**  
 <details>  
@@ -68,7 +67,7 @@ FHSS (Espectro Ensanchado por Salto de Frecuencia), técnica de transmisión de 
 <li><em>¿Cuáles son las ventajas?</em><br></li>  
 </ul>
 - Se basa en la idea de que un salto rápido y constante entre frecuencias dificulta la interceptación de la señal por parte de terceros. Además, permite una mayor resistencia a interferencias y una transmisión más eficiente de los datos.<br>   
-Esto funciona en nuestro caso de tal forma que una vez te sincronzas con el emisor (Estacion davis A) tu vas saltando de frecuencia al mismo tiempo recibiendo todos los paquetes. Pero en el momento que a una frecuencia llega un paquete indeseado, supongamos de nuestra estacion B, ....... a explicar<br>   
+Esto funciona en nuestro caso de tal forma que una vez te sincronzas con el emisor (Estacion davis A), vas saltando de frecuencia al mismo tiempo recibiendo todos los paquetes. Pero en el momento que a una frecuencia llega un paquete indeseado, supongamos de nuestra estacion B, en el mismo instante de tiempo y a la misma frecuencia se produce una colisión. Para analizar estas colisiones se ha utilizado un hack_rf y con el software SDR_SHARP se ha podido analizar estos datos. [Detalles de algunas capturas aquí](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/FOTOS/captura_sdr_sharp)<br>   
 </details>
 <a name="COMUNICACIONSPI"></a>
 <details>  
