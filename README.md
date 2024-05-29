@@ -38,11 +38,11 @@ En el transcurso del TFG se recopilarán datos en [ESTADISTICAS](https://github.
 *- se medirá la potencia para saber el consumo en función del tiempo con y sin Placa Adafruit Adalogger FeatherWing, tambien radio + SD, radio + SD + WIFI.* [Aquí](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/ESTADISTICAS/Consumo)  
 *- se medirá la recepción para los diferentes canales que tiene el transmisor de radio Davis.* [Aquí](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/ESTADISTICAS/estadisticas_radio)   
 *- se harán pruebas previas con todo el sistema montado correctamente para ver que no hay problemas ,obtendiendo datos de los mismos en formato xlsx, donde se verificará con la información recopilada de Putty .* [Aquí](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/ESTADISTICAS/Datos%20almacenados)  
-### Código final.
-[**CÓDIGO](https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/DEFINITIVO/Datalogger.ino) 
-[**DIAGRAMA DE FLUJO SISTEMA](https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/DEFINITIVO/diagramas_flujo/diagramtot.png) 
-[**DIAGRAMA DE RECEPCIÓN RADIO](https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/DEFINITIVO/diagramas_flujo/diagramradio.png) 
-[**DIAGRAMA DE BOTÓN INTERRUPTOR](https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/DEFINITIVO/diagramas_flujo/boton_diagram.drawio.png) 
+### Código final.  
+[**CÓDIGO](https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/DEFINITIVO/Datalogger.ino)  
+[**DIAGRAMA DE FLUJO SISTEMA](https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/DEFINITIVO/diagramas_flujo/diagramtot.png)  
+[**DIAGRAMA DE RECEPCIÓN RADIO](https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/DEFINITIVO/diagramas_flujo/diagramradio.png)  
+[**DIAGRAMA DE BOTÓN INTERRUPTOR](https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/DEFINITIVO/diagramas_flujo/boton_diagram.drawio.png)  
 ### Recibir.
 [**CÓDIGO y DIAGRAMA DE FLUJO**](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/RECIBIR)  
 Esta fase tiene como objetivo recibir paquetes de las distintas estaciones con los datos obtenidos en sus sensores. En nuestro caso tenemos sensores de temperatura, humedad, dirección del viento e intensidad.  
