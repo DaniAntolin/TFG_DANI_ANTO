@@ -19,6 +19,7 @@ Tarjeta microSD de 2Gbytes
 ### Software  
 Arduino IDE versión 2.2.1  
 Placa Esp32 de espressif version 2.0.4  
+Se ha modificado la librería DAVISRFM69 para ajustarlo al proyecto [VER AQUÍ](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/DavisRFM69-esp)
 ## Conexiones pines:
 
 ### Placa Adafruit Feather ESP32 V2
