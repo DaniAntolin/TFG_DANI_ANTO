@@ -14,6 +14,8 @@ Tarjeta microSD de 2Gbytes
 [Antena](https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/Informaci%C3%B3n/documentos/1052620001.pdf)  
 [Botón interruptor](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/LIBRERIAS/RECIBIR) 
 [Batería y placa solar](https://github.com/DaniAntolin/TFG_DANI_ANTO/blob/main/Informaci%C3%B3n/documentos/6612-6614_Kit%20alimentation_FICHE%20PRODUIT_FR_DAVIS.pdf)
+
+[**INFORMACIÓN DATASHEETs**](https://github.com/DaniAntolin/TFG_DANI_ANTO/tree/main/Informaci%C3%B3n) 
 ### Software  
 Arduino IDE versión 2.2.1  
 Placa Esp32 de espressif version 2.0.4  
